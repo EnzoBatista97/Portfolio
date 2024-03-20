@@ -1,0 +1,3077 @@
+[31-Jan-2024 11:46:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-content\themes\Nathalie-Mota_theme\functions.php:1) in C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-includes\pluggable.php on line 1435
+[31-Jan-2024 11:46:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-content\themes\Nathalie-Mota_theme\functions.php:1) in C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-includes\pluggable.php on line 1438
+[31-Jan-2024 11:46:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-content\themes\Nathalie-Mota_theme\functions.php:1) in C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-includes\rest-api\class-wp-rest-server.php on line 1794
+[31-Jan-2024 11:46:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-content\themes\Nathalie-Mota_theme\functions.php:1) in C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-includes\rest-api\class-wp-rest-server.php on line 1794
+[31-Jan-2024 11:46:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-content\themes\Nathalie-Mota_theme\functions.php:1) in C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-includes\rest-api\class-wp-rest-server.php on line 1794
+[31-Jan-2024 11:46:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-content\themes\Nathalie-Mota_theme\functions.php:1) in C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-includes\rest-api\class-wp-rest-server.php on line 1794
+[31-Jan-2024 11:46:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-content\themes\Nathalie-Mota_theme\functions.php:1) in C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-includes\rest-api\class-wp-rest-server.php on line 1794
+[31-Jan-2024 11:46:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-content\themes\Nathalie-Mota_theme\functions.php:1) in C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-includes\rest-api\class-wp-rest-server.php on line 1794
+[31-Jan-2024 11:46:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-content\themes\Nathalie-Mota_theme\functions.php:1) in C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-includes\rest-api\class-wp-rest-server.php on line 1794
+[31-Jan-2024 11:46:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-content\themes\Nathalie-Mota_theme\functions.php:1) in C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-includes\pluggable.php on line 1435
+[31-Jan-2024 11:46:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-content\themes\Nathalie-Mota_theme\functions.php:1) in C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-includes\pluggable.php on line 1438
+[02-Feb-2024 10:57:05 UTC] Load more photos function called.
+[02-Feb-2024 10:57:17 UTC] Load more photos function called.
+[02-Feb-2024 11:23:11 UTC] Load more photos function called.
+[02-Feb-2024 11:32:32 UTC] Load more photos function called.
+[02-Feb-2024 11:36:36 UTC] Load more photos function called.
+[02-Feb-2024 12:13:18 UTC] Load more photos function called.
+[02-Feb-2024 12:43:07 UTC] Query arguments: {"post_type":"photo","posts_per_page":8,"paged":"2"}
+[02-Feb-2024 12:43:07 UTC] HTML response: <div class="photo-item"><img src="http://nathalie-mota.local/wp-content/uploads/2024/01/nathalie-5-scaled.jpeg" alt="Embrassez la mariée" class="photo-image"></div><div class="photo-item"><img src="http://nathalie-mota.local/wp-content/uploads/2024/01/nathalie-2-scaled.jpeg" alt="Let&rsquo;s party!" class="photo-image"></div><div class="photo-item"><img src="http://nathalie-mota.local/wp-content/uploads/2024/01/nathalie-6-scaled.jpeg" alt="Dansons ensemble" class="photo-image"></div><div class="photo-item"><img src="http://nathalie-mota.local/wp-content/uploads/2024/01/nathalie-4-scaled.jpeg" alt="Vers l&rsquo;éternité" class="photo-image"></div><div class="photo-item"><img src="http://nathalie-mota.local/wp-content/uploads/2024/01/nathalie-1-scaled.jpeg" alt="Et bon anniversaire !" class="photo-image"></div><div class="photo-item"><img src="http://nathalie-mota.local/wp-content/uploads/2024/01/nathalie-7-scaled.jpeg" alt="Le menu" class="photo-image"></div><div class="photo-item"><img src="http://nathalie-mota.local/wp-content/uploads/2024/01/nathalie-3-scaled.jpeg" alt="Tout est installé" class="photo-image"></div><div class="photo-item"><img src="http://nathalie-mota.local/wp-content/uploads/2024/01/nathalie-0-scaled.jpeg" alt="Santé !" class="photo-image"></div>
+[02-Feb-2024 12:43:15 UTC] Query arguments: {"post_type":"photo","posts_per_page":8,"paged":"2","tax_query":[{"taxonomy":"categorie","field":"slug","terms":"concert"}]}
+[02-Feb-2024 12:43:15 UTC] HTML response: Aucune photo trouvée.
+[02-Feb-2024 12:46:19 UTC] Query arguments: {"post_type":"photo","posts_per_page":8,"paged":"2"}
+[02-Feb-2024 12:46:19 UTC] HTML response: <div class="photo-item"><img src="http://nathalie-mota.local/wp-content/uploads/2024/01/nathalie-5-scaled.jpeg" alt="Embrassez la mariée" class="photo-image"></div><div class="photo-item"><img src="http://nathalie-mota.local/wp-content/uploads/2024/01/nathalie-2-scaled.jpeg" alt="Let&rsquo;s party!" class="photo-image"></div><div class="photo-item"><img src="http://nathalie-mota.local/wp-content/uploads/2024/01/nathalie-6-scaled.jpeg" alt="Dansons ensemble" class="photo-image"></div><div class="photo-item"><img src="http://nathalie-mota.local/wp-content/uploads/2024/01/nathalie-4-scaled.jpeg" alt="Vers l&rsquo;éternité" class="photo-image"></div><div class="photo-item"><img src="http://nathalie-mota.local/wp-content/uploads/2024/01/nathalie-1-scaled.jpeg" alt="Et bon anniversaire !" class="photo-image"></div><div class="photo-item"><img src="http://nathalie-mota.local/wp-content/uploads/2024/01/nathalie-7-scaled.jpeg" alt="Le menu" class="photo-image"></div><div class="photo-item"><img src="http://nathalie-mota.local/wp-content/uploads/2024/01/nathalie-3-scaled.jpeg" alt="Tout est installé" class="photo-image"></div><div class="photo-item"><img src="http://nathalie-mota.local/wp-content/uploads/2024/01/nathalie-0-scaled.jpeg" alt="Santé !" class="photo-image"></div>
+[02-Feb-2024 12:46:25 UTC] Query arguments for category filter: {"post_type":"photo","posts_per_page":8,"paged":"2","tax_query":[{"taxonomy":"categorie","field":"slug","terms":"concert"}]}
+[02-Feb-2024 12:46:25 UTC] Query arguments: {"post_type":"photo","posts_per_page":8,"paged":"2","tax_query":[{"taxonomy":"categorie","field":"slug","terms":"concert"}]}
+[02-Feb-2024 12:46:25 UTC] HTML response: Aucune photo trouvée.
+[02-Feb-2024 12:48:44 UTC] Query arguments for category filter: {"post_type":"photo","posts_per_page":8,"paged":"2","tax_query":[{"taxonomy":"categorie","field":"slug","terms":"concert"}]}
+[02-Feb-2024 12:48:44 UTC] Query arguments: {"post_type":"photo","posts_per_page":8,"paged":"2","tax_query":[{"taxonomy":"categorie","field":"slug","terms":"concert"}]}
+[02-Feb-2024 12:48:44 UTC] HTML response: Aucune photo trouvée.
+[02-Feb-2024 12:51:02 UTC] Query arguments for category filter: {"post_type":"photo","posts_per_page":8,"paged":"2","tax_query":[{"taxonomy":"categorie","field":"slug","terms":"concert"}]}
+[02-Feb-2024 12:51:19 UTC] Query arguments for category filter: {"post_type":"photo","posts_per_page":8,"paged":"2","tax_query":[{"taxonomy":"categorie","field":"slug","terms":"concert"}]}
+[02-Feb-2024 13:46:38 UTC] Catégorie sélectionnée : concert
+[02-Feb-2024 13:50:47 UTC] Catégorie sélectionnée : concert
+[02-Feb-2024 13:52:35 UTC] Catégorie sélectionnée : concert
+[02-Feb-2024 13:53:29 UTC] Catégorie sélectionnée : concert
+[02-Feb-2024 13:55:45 UTC] Catégorie sélectionnée : concert
+[02-Feb-2024 13:56:33 UTC] Catégorie sélectionnée : concert
+[02-Feb-2024 13:57:16 UTC] Catégorie sélectionnée : concert
+[02-Feb-2024 13:58:10 UTC] Catégorie sélectionnée : mariage
+[02-Feb-2024 13:58:19 UTC] Catégorie sélectionnée : reception
+[02-Feb-2024 13:58:21 UTC] Catégorie sélectionnée : television
+[02-Feb-2024 13:58:23 UTC] Catégorie sélectionnée : concert
+[02-Feb-2024 13:58:24 UTC] Catégorie sélectionnée : mariage
+[02-Feb-2024 13:59:18 UTC] Catégorie sélectionnée : concert
+[02-Feb-2024 14:00:41 UTC] Catégorie sélectionnée : concert
+[02-Feb-2024 14:00:44 UTC] Catégorie sélectionnée : mariage
+[02-Feb-2024 14:06:33 UTC] Catégorie sélectionnée : concert
+[03-Feb-2024 18:04:24 UTC] Catégorie sélectionnée : concert
+[03-Feb-2024 18:05:35 UTC] PHP Warning:  Undefined array key "category" in C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-content\themes\Nathalie-Mota_theme\functions.php on line 125
+[03-Feb-2024 18:05:35 UTC] Catégorie sélectionnée : 
+[03-Feb-2024 18:05:52 UTC] PHP Warning:  Undefined array key "category" in C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-content\themes\Nathalie-Mota_theme\functions.php on line 125
+[03-Feb-2024 18:05:52 UTC] Catégorie sélectionnée : 
+[03-Feb-2024 18:06:04 UTC] PHP Warning:  Undefined array key "category" in C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-content\themes\Nathalie-Mota_theme\functions.php on line 125
+[03-Feb-2024 18:06:04 UTC] Catégorie sélectionnée : 
+[03-Feb-2024 18:06:12 UTC] PHP Warning:  Undefined array key "category" in C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-content\themes\Nathalie-Mota_theme\functions.php on line 125
+[03-Feb-2024 18:06:12 UTC] Catégorie sélectionnée : 
+[03-Feb-2024 18:07:11 UTC] Catégorie sélectionnée : concert
+[03-Feb-2024 19:12:18 UTC] Catégorie sélectionnée : concert
+[03-Feb-2024 19:14:36 UTC] Catégorie reçue dans la requête : concert
+[03-Feb-2024 19:14:36 UTC] Catégorie sélectionnée : concert
+[03-Feb-2024 19:16:25 UTC] Catégorie reçue dans la requête : concert
+[03-Feb-2024 19:16:25 UTC] Catégorie sélectionnée : concert
+[03-Feb-2024 19:21:43 UTC] Catégorie reçue dans la requête : concert
+[03-Feb-2024 19:21:43 UTC] Catégorie sélectionnée : concert
+[03-Feb-2024 19:23:58 UTC] Catégorie reçue dans la requête : concert
+[03-Feb-2024 19:23:58 UTC] Catégorie sélectionnée : concert
+[03-Feb-2024 19:29:21 UTC] Catégorie reçue dans la requête : mariage
+[03-Feb-2024 19:29:21 UTC] Catégorie sélectionnée : mariage
+[03-Feb-2024 19:29:21 UTC] Requête SQL : 
+					SELECT SQL_CALC_FOUND_ROWS  wp_posts.ID
+					FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id)
+					WHERE 1=1  AND ( 
+  wp_term_relationships.term_taxonomy_id IN (6)
+) AND ((wp_posts.post_type = 'photo' AND (wp_posts.post_status = 'publish' OR wp_posts.post_status = 'acf-disabled' OR wp_posts.post_status = 'future' OR wp_posts.post_status = 'draft' OR wp_posts.post_status = 'pending' 
+OR wp_posts.post_status = 'private')))
+					GROUP BY wp_posts.ID
+					ORDER BY wp_posts.post_date DESC
+					LIMIT 8, 8
+				
+[03-Feb-2024 19:29:21 UTC] Toutes les catégories : Array
+(
+    [0] => WP_Term Object
+        (
+            [term_id] => 5
+            [name] => Concert
+            [slug] => concert
+            [term_group] => 0
+            [term_taxonomy_id] => 5
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 4
+            [filter] => raw
+        )
+
+    [1] => WP_Term Object
+        (
+            [term_id] => 6
+            [name] => Mariage
+            [slug] => mariage
+            [term_group] => 0
+            [term_taxonomy_id] => 6
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 9
+            [filter] => raw
+        )
+
+    [2] => WP_Term Object
+        (
+            [term_id] => 4
+            [name] => Réception
+            [slug] => reception
+            [term_group] => 0
+            [term_taxonomy_id] => 4
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 2
+            [filter] => raw
+        )
+
+    [3] => WP_Term Object
+        (
+            [term_id] => 7
+            [name] => Télévision
+            [slug] => television
+            [term_group] => 0
+            [term_taxonomy_id] => 7
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 1
+            [filter] => raw
+        )
+
+)
+
+[03-Feb-2024 19:29:44 UTC] Catégorie reçue dans la requête : concert
+[03-Feb-2024 19:29:44 UTC] Catégorie sélectionnée : concert
+[03-Feb-2024 19:29:44 UTC] Requête SQL : 
+					SELECT SQL_CALC_FOUND_ROWS  wp_posts.ID
+					FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id)
+					WHERE 1=1  AND ( 
+  wp_term_relationships.term_taxonomy_id IN (5)
+) AND ((wp_posts.post_type = 'photo' AND (wp_posts.post_status = 'publish' OR wp_posts.post_status = 'acf-disabled' OR wp_posts.post_status = 'future' OR wp_posts.post_status = 'draft' OR wp_posts.post_status = 'pending' 
+OR wp_posts.post_status = 'private')))
+					GROUP BY wp_posts.ID
+					ORDER BY wp_posts.post_date DESC
+					LIMIT 8, 8
+				
+[03-Feb-2024 19:29:44 UTC] Toutes les catégories : Array
+(
+    [0] => WP_Term Object
+        (
+            [term_id] => 5
+            [name] => Concert
+            [slug] => concert
+            [term_group] => 0
+            [term_taxonomy_id] => 5
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 4
+            [filter] => raw
+        )
+
+    [1] => WP_Term Object
+        (
+            [term_id] => 6
+            [name] => Mariage
+            [slug] => mariage
+            [term_group] => 0
+            [term_taxonomy_id] => 6
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 9
+            [filter] => raw
+        )
+
+    [2] => WP_Term Object
+        (
+            [term_id] => 4
+            [name] => Réception
+            [slug] => reception
+            [term_group] => 0
+            [term_taxonomy_id] => 4
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 2
+            [filter] => raw
+        )
+
+    [3] => WP_Term Object
+        (
+            [term_id] => 7
+            [name] => Télévision
+            [slug] => television
+            [term_group] => 0
+            [term_taxonomy_id] => 7
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 1
+            [filter] => raw
+        )
+
+)
+
+[03-Feb-2024 19:30:18 UTC] Catégorie reçue dans la requête : concert
+[03-Feb-2024 19:30:18 UTC] Catégorie sélectionnée : concert
+[03-Feb-2024 19:30:18 UTC] Requête SQL : 
+					SELECT SQL_CALC_FOUND_ROWS  wp_posts.ID
+					FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id)
+					WHERE 1=1  AND ( 
+  wp_term_relationships.term_taxonomy_id IN (5)
+) AND ((wp_posts.post_type = 'photo' AND (wp_posts.post_status = 'publish' OR wp_posts.post_status = 'acf-disabled' OR wp_posts.post_status = 'future' OR wp_posts.post_status = 'draft' OR wp_posts.post_status = 'pending' 
+OR wp_posts.post_status = 'private')))
+					GROUP BY wp_posts.ID
+					ORDER BY wp_posts.post_date DESC
+					LIMIT 8, 8
+				
+[03-Feb-2024 19:30:18 UTC] Toutes les catégories : Array
+(
+    [0] => WP_Term Object
+        (
+            [term_id] => 5
+            [name] => Concert
+            [slug] => concert
+            [term_group] => 0
+            [term_taxonomy_id] => 5
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 4
+            [filter] => raw
+        )
+
+    [1] => WP_Term Object
+        (
+            [term_id] => 6
+            [name] => Mariage
+            [slug] => mariage
+            [term_group] => 0
+            [term_taxonomy_id] => 6
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 9
+            [filter] => raw
+        )
+
+    [2] => WP_Term Object
+        (
+            [term_id] => 4
+            [name] => Réception
+            [slug] => reception
+            [term_group] => 0
+            [term_taxonomy_id] => 4
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 2
+            [filter] => raw
+        )
+
+    [3] => WP_Term Object
+        (
+            [term_id] => 7
+            [name] => Télévision
+            [slug] => television
+            [term_group] => 0
+            [term_taxonomy_id] => 7
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 1
+            [filter] => raw
+        )
+
+)
+
+[03-Feb-2024 19:33:05 UTC] Catégorie reçue dans la requête : concert
+[03-Feb-2024 19:33:05 UTC] Catégorie sélectionnée : concert
+[03-Feb-2024 19:33:05 UTC] Requête SQL : 
+					SELECT SQL_CALC_FOUND_ROWS  wp_posts.ID
+					FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id)
+					WHERE 1=1  AND ( 
+  wp_term_relationships.term_taxonomy_id IN (5)
+) AND ((wp_posts.post_type = 'photo' AND (wp_posts.post_status = 'publish' OR wp_posts.post_status = 'acf-disabled' OR wp_posts.post_status = 'future' OR wp_posts.post_status = 'draft' OR wp_posts.post_status = 'pending' 
+OR wp_posts.post_status = 'private')))
+					GROUP BY wp_posts.ID
+					ORDER BY wp_posts.post_date DESC
+					LIMIT 8, 8
+				
+[03-Feb-2024 19:33:05 UTC] Toutes les catégories : Array
+(
+    [0] => WP_Term Object
+        (
+            [term_id] => 5
+            [name] => Concert
+            [slug] => concert
+            [term_group] => 0
+            [term_taxonomy_id] => 5
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 4
+            [filter] => raw
+        )
+
+    [1] => WP_Term Object
+        (
+            [term_id] => 6
+            [name] => Mariage
+            [slug] => mariage
+            [term_group] => 0
+            [term_taxonomy_id] => 6
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 9
+            [filter] => raw
+        )
+
+    [2] => WP_Term Object
+        (
+            [term_id] => 4
+            [name] => Réception
+            [slug] => reception
+            [term_group] => 0
+            [term_taxonomy_id] => 4
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 2
+            [filter] => raw
+        )
+
+    [3] => WP_Term Object
+        (
+            [term_id] => 7
+            [name] => Télévision
+            [slug] => television
+            [term_group] => 0
+            [term_taxonomy_id] => 7
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 1
+            [filter] => raw
+        )
+
+)
+
+[03-Feb-2024 19:34:30 UTC] Catégorie reçue dans la requête : concert
+[03-Feb-2024 19:34:30 UTC] Catégorie sélectionnée : concert
+[03-Feb-2024 19:34:30 UTC] Requête SQL : 
+					SELECT SQL_CALC_FOUND_ROWS  wp_posts.ID
+					FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id)
+					WHERE 1=1  AND ( 
+  wp_term_relationships.term_taxonomy_id IN (5)
+) AND ((wp_posts.post_type = 'photo' AND (wp_posts.post_status = 'publish' OR wp_posts.post_status = 'acf-disabled' OR wp_posts.post_status = 'future' OR wp_posts.post_status = 'draft' OR wp_posts.post_status = 'pending' 
+OR wp_posts.post_status = 'private')))
+					GROUP BY wp_posts.ID
+					ORDER BY wp_posts.post_date DESC
+					LIMIT 8, 8
+				
+[03-Feb-2024 19:34:30 UTC] Toutes les catégories : Array
+(
+    [0] => WP_Term Object
+        (
+            [term_id] => 5
+            [name] => Concert
+            [slug] => concert
+            [term_group] => 0
+            [term_taxonomy_id] => 5
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 4
+            [filter] => raw
+        )
+
+    [1] => WP_Term Object
+        (
+            [term_id] => 6
+            [name] => Mariage
+            [slug] => mariage
+            [term_group] => 0
+            [term_taxonomy_id] => 6
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 9
+            [filter] => raw
+        )
+
+    [2] => WP_Term Object
+        (
+            [term_id] => 4
+            [name] => Réception
+            [slug] => reception
+            [term_group] => 0
+            [term_taxonomy_id] => 4
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 2
+            [filter] => raw
+        )
+
+    [3] => WP_Term Object
+        (
+            [term_id] => 7
+            [name] => Télévision
+            [slug] => television
+            [term_group] => 0
+            [term_taxonomy_id] => 7
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 1
+            [filter] => raw
+        )
+
+)
+
+[03-Feb-2024 19:47:43 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée in C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-includes\class-wpdb.php on line 1987
+[03-Feb-2024 19:57:07 UTC] Catégorie reçue dans la requête : concert
+[03-Feb-2024 19:57:07 UTC] Catégorie sélectionnée : concert
+[03-Feb-2024 19:57:07 UTC] Requête SQL : 
+					SELECT SQL_CALC_FOUND_ROWS  wp_posts.ID
+					FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id)
+					WHERE 1=1  AND ( 
+  wp_term_relationships.term_taxonomy_id IN (5)
+) AND ((wp_posts.post_type = 'photo' AND (wp_posts.post_status = 'publish' OR wp_posts.post_status = 'acf-disabled' OR wp_posts.post_status = 'future' OR wp_posts.post_status = 'draft' OR wp_posts.post_status = 'pending' 
+OR wp_posts.post_status = 'private')))
+					GROUP BY wp_posts.ID
+					ORDER BY wp_posts.post_date DESC
+					LIMIT 8, 8
+				
+[03-Feb-2024 19:57:07 UTC] Toutes les catégories : Array
+(
+    [0] => WP_Term Object
+        (
+            [term_id] => 5
+            [name] => Concert
+            [slug] => concert
+            [term_group] => 0
+            [term_taxonomy_id] => 5
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 4
+            [filter] => raw
+        )
+
+    [1] => WP_Term Object
+        (
+            [term_id] => 6
+            [name] => Mariage
+            [slug] => mariage
+            [term_group] => 0
+            [term_taxonomy_id] => 6
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 9
+            [filter] => raw
+        )
+
+    [2] => WP_Term Object
+        (
+            [term_id] => 4
+            [name] => Réception
+            [slug] => reception
+            [term_group] => 0
+            [term_taxonomy_id] => 4
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 2
+            [filter] => raw
+        )
+
+    [3] => WP_Term Object
+        (
+            [term_id] => 7
+            [name] => Télévision
+            [slug] => television
+            [term_group] => 0
+            [term_taxonomy_id] => 7
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 1
+            [filter] => raw
+        )
+
+)
+
+[03-Feb-2024 19:59:34 UTC] Catégorie reçue dans la requête : concert
+[03-Feb-2024 19:59:34 UTC] Catégorie sélectionnée : concert
+[03-Feb-2024 19:59:34 UTC] Requête SQL : 
+					SELECT SQL_CALC_FOUND_ROWS  wp_posts.ID
+					FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id)
+					WHERE 1=1  AND ( 
+  wp_term_relationships.term_taxonomy_id IN (5)
+) AND ((wp_posts.post_type = 'photo' AND (wp_posts.post_status = 'publish' OR wp_posts.post_status = 'acf-disabled' OR wp_posts.post_status = 'future' OR wp_posts.post_status = 'draft' OR wp_posts.post_status = 'pending' 
+OR wp_posts.post_status = 'private')))
+					GROUP BY wp_posts.ID
+					ORDER BY wp_posts.post_date DESC
+					LIMIT 8, 8
+				
+[03-Feb-2024 19:59:34 UTC] Toutes les catégories : Array
+(
+    [0] => WP_Term Object
+        (
+            [term_id] => 5
+            [name] => concert
+            [slug] => concert
+            [term_group] => 0
+            [term_taxonomy_id] => 5
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 4
+            [filter] => raw
+        )
+
+    [1] => WP_Term Object
+        (
+            [term_id] => 6
+            [name] => Mariage
+            [slug] => mariage
+            [term_group] => 0
+            [term_taxonomy_id] => 6
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 9
+            [filter] => raw
+        )
+
+    [2] => WP_Term Object
+        (
+            [term_id] => 4
+            [name] => Réception
+            [slug] => reception
+            [term_group] => 0
+            [term_taxonomy_id] => 4
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 2
+            [filter] => raw
+        )
+
+    [3] => WP_Term Object
+        (
+            [term_id] => 7
+            [name] => Télévision
+            [slug] => television
+            [term_group] => 0
+            [term_taxonomy_id] => 7
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 1
+            [filter] => raw
+        )
+
+)
+
+[03-Feb-2024 20:04:37 UTC] Catégorie reçue dans la requête : concert
+[03-Feb-2024 20:04:37 UTC] Catégorie sélectionnée : concert
+[03-Feb-2024 20:04:37 UTC] Requête SQL : 
+					SELECT SQL_CALC_FOUND_ROWS  wp_posts.ID
+					FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id)
+					WHERE 1=1  AND ( 
+  wp_term_relationships.term_taxonomy_id IN (5)
+) AND ((wp_posts.post_type = 'photo' AND (wp_posts.post_status = 'publish' OR wp_posts.post_status = 'acf-disabled' OR wp_posts.post_status = 'future' OR wp_posts.post_status = 'draft' OR wp_posts.post_status = 'pending' 
+OR wp_posts.post_status = 'private')))
+					GROUP BY wp_posts.ID
+					ORDER BY wp_posts.post_date DESC
+					LIMIT 8, 8
+				
+[03-Feb-2024 20:04:37 UTC] Toutes les catégories : Array
+(
+    [0] => WP_Term Object
+        (
+            [term_id] => 5
+            [name] => concert
+            [slug] => concert
+            [term_group] => 0
+            [term_taxonomy_id] => 5
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 4
+            [filter] => raw
+        )
+
+    [1] => WP_Term Object
+        (
+            [term_id] => 6
+            [name] => Mariage
+            [slug] => mariage
+            [term_group] => 0
+            [term_taxonomy_id] => 6
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 9
+            [filter] => raw
+        )
+
+    [2] => WP_Term Object
+        (
+            [term_id] => 4
+            [name] => Réception
+            [slug] => reception
+            [term_group] => 0
+            [term_taxonomy_id] => 4
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 2
+            [filter] => raw
+        )
+
+    [3] => WP_Term Object
+        (
+            [term_id] => 7
+            [name] => Télévision
+            [slug] => television
+            [term_group] => 0
+            [term_taxonomy_id] => 7
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 1
+            [filter] => raw
+        )
+
+)
+
+[03-Feb-2024 20:08:02 UTC] Catégorie reçue dans la requête : mariage
+[03-Feb-2024 20:08:02 UTC] Catégorie sélectionnée : mariage
+[03-Feb-2024 20:08:02 UTC] Requête SQL : 
+					SELECT SQL_CALC_FOUND_ROWS  wp_posts.ID
+					FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id)
+					WHERE 1=1  AND ( 
+  wp_term_relationships.term_taxonomy_id IN (6)
+) AND ((wp_posts.post_type = 'photo' AND (wp_posts.post_status = 'publish' OR wp_posts.post_status = 'acf-disabled' OR wp_posts.post_status = 'future' OR wp_posts.post_status = 'draft' OR wp_posts.post_status = 'pending' 
+OR wp_posts.post_status = 'private')))
+					GROUP BY wp_posts.ID
+					ORDER BY wp_posts.post_date DESC
+					LIMIT 8, 8
+				
+[03-Feb-2024 20:08:02 UTC] Toutes les catégories : Array
+(
+    [0] => WP_Term Object
+        (
+            [term_id] => 6
+            [name] => Mariage
+            [slug] => mariage
+            [term_group] => 0
+            [term_taxonomy_id] => 6
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 9
+            [filter] => raw
+        )
+
+    [1] => WP_Term Object
+        (
+            [term_id] => 4
+            [name] => Réception
+            [slug] => reception
+            [term_group] => 0
+            [term_taxonomy_id] => 4
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 2
+            [filter] => raw
+        )
+
+    [2] => WP_Term Object
+        (
+            [term_id] => 7
+            [name] => Télévision
+            [slug] => television
+            [term_group] => 0
+            [term_taxonomy_id] => 7
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 1
+            [filter] => raw
+        )
+
+)
+
+[03-Feb-2024 20:08:33 UTC] Catégorie reçue dans la requête : concert
+[03-Feb-2024 20:08:33 UTC] Catégorie sélectionnée : concert
+[03-Feb-2024 20:08:33 UTC] Requête SQL : 
+					SELECT SQL_CALC_FOUND_ROWS  wp_posts.ID
+					FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id)
+					WHERE 1=1  AND ( 
+  wp_term_relationships.term_taxonomy_id IN (5)
+) AND ((wp_posts.post_type = 'photo' AND (wp_posts.post_status = 'publish' OR wp_posts.post_status = 'acf-disabled' OR wp_posts.post_status = 'future' OR wp_posts.post_status = 'draft' OR wp_posts.post_status = 'pending' 
+OR wp_posts.post_status = 'private')))
+					GROUP BY wp_posts.ID
+					ORDER BY wp_posts.post_date DESC
+					LIMIT 8, 8
+				
+[03-Feb-2024 20:08:33 UTC] Toutes les catégories : Array
+(
+    [0] => WP_Term Object
+        (
+            [term_id] => 5
+            [name] => concert
+            [slug] => concert
+            [term_group] => 0
+            [term_taxonomy_id] => 5
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 4
+            [filter] => raw
+        )
+
+    [1] => WP_Term Object
+        (
+            [term_id] => 6
+            [name] => Mariage
+            [slug] => mariage
+            [term_group] => 0
+            [term_taxonomy_id] => 6
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 9
+            [filter] => raw
+        )
+
+    [2] => WP_Term Object
+        (
+            [term_id] => 4
+            [name] => Réception
+            [slug] => reception
+            [term_group] => 0
+            [term_taxonomy_id] => 4
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 2
+            [filter] => raw
+        )
+
+    [3] => WP_Term Object
+        (
+            [term_id] => 7
+            [name] => Télévision
+            [slug] => television
+            [term_group] => 0
+            [term_taxonomy_id] => 7
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 1
+            [filter] => raw
+        )
+
+)
+
+[03-Feb-2024 20:08:37 UTC] Catégorie reçue dans la requête : reception
+[03-Feb-2024 20:08:37 UTC] Catégorie sélectionnée : reception
+[03-Feb-2024 20:08:37 UTC] Requête SQL : 
+					SELECT SQL_CALC_FOUND_ROWS  wp_posts.ID
+					FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id)
+					WHERE 1=1  AND ( 
+  wp_term_relationships.term_taxonomy_id IN (4)
+) AND ((wp_posts.post_type = 'photo' AND (wp_posts.post_status = 'publish' OR wp_posts.post_status = 'acf-disabled' OR wp_posts.post_status = 'future' OR wp_posts.post_status = 'draft' OR wp_posts.post_status = 'pending' 
+OR wp_posts.post_status = 'private')))
+					GROUP BY wp_posts.ID
+					ORDER BY wp_posts.post_date DESC
+					LIMIT 8, 8
+				
+[03-Feb-2024 20:08:37 UTC] Toutes les catégories : Array
+(
+    [0] => WP_Term Object
+        (
+            [term_id] => 5
+            [name] => concert
+            [slug] => concert
+            [term_group] => 0
+            [term_taxonomy_id] => 5
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 4
+            [filter] => raw
+        )
+
+    [1] => WP_Term Object
+        (
+            [term_id] => 6
+            [name] => Mariage
+            [slug] => mariage
+            [term_group] => 0
+            [term_taxonomy_id] => 6
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 9
+            [filter] => raw
+        )
+
+    [2] => WP_Term Object
+        (
+            [term_id] => 4
+            [name] => Réception
+            [slug] => reception
+            [term_group] => 0
+            [term_taxonomy_id] => 4
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 2
+            [filter] => raw
+        )
+
+    [3] => WP_Term Object
+        (
+            [term_id] => 7
+            [name] => Télévision
+            [slug] => television
+            [term_group] => 0
+            [term_taxonomy_id] => 7
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 1
+            [filter] => raw
+        )
+
+)
+
+[03-Feb-2024 20:08:43 UTC] Catégorie reçue dans la requête : television
+[03-Feb-2024 20:08:43 UTC] Catégorie sélectionnée : television
+[03-Feb-2024 20:08:43 UTC] Requête SQL : 
+					SELECT SQL_CALC_FOUND_ROWS  wp_posts.ID
+					FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id)
+					WHERE 1=1  AND ( 
+  wp_term_relationships.term_taxonomy_id IN (7)
+) AND ((wp_posts.post_type = 'photo' AND (wp_posts.post_status = 'publish' OR wp_posts.post_status = 'acf-disabled' OR wp_posts.post_status = 'future' OR wp_posts.post_status = 'draft' OR wp_posts.post_status = 'pending' 
+OR wp_posts.post_status = 'private')))
+					GROUP BY wp_posts.ID
+					ORDER BY wp_posts.post_date DESC
+					LIMIT 8, 8
+				
+[03-Feb-2024 20:08:43 UTC] Toutes les catégories : Array
+(
+    [0] => WP_Term Object
+        (
+            [term_id] => 5
+            [name] => concert
+            [slug] => concert
+            [term_group] => 0
+            [term_taxonomy_id] => 5
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 4
+            [filter] => raw
+        )
+
+    [1] => WP_Term Object
+        (
+            [term_id] => 6
+            [name] => Mariage
+            [slug] => mariage
+            [term_group] => 0
+            [term_taxonomy_id] => 6
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 9
+            [filter] => raw
+        )
+
+    [2] => WP_Term Object
+        (
+            [term_id] => 4
+            [name] => Réception
+            [slug] => reception
+            [term_group] => 0
+            [term_taxonomy_id] => 4
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 2
+            [filter] => raw
+        )
+
+    [3] => WP_Term Object
+        (
+            [term_id] => 7
+            [name] => Télévision
+            [slug] => television
+            [term_group] => 0
+            [term_taxonomy_id] => 7
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 1
+            [filter] => raw
+        )
+
+)
+
+[03-Feb-2024 20:08:47 UTC] Catégorie reçue dans la requête : mariage
+[03-Feb-2024 20:08:47 UTC] Catégorie sélectionnée : mariage
+[03-Feb-2024 20:08:47 UTC] Requête SQL : 
+					SELECT SQL_CALC_FOUND_ROWS  wp_posts.ID
+					FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id)
+					WHERE 1=1  AND ( 
+  wp_term_relationships.term_taxonomy_id IN (6)
+) AND ((wp_posts.post_type = 'photo' AND (wp_posts.post_status = 'publish' OR wp_posts.post_status = 'acf-disabled' OR wp_posts.post_status = 'future' OR wp_posts.post_status = 'draft' OR wp_posts.post_status = 'pending' 
+OR wp_posts.post_status = 'private')))
+					GROUP BY wp_posts.ID
+					ORDER BY wp_posts.post_date DESC
+					LIMIT 8, 8
+				
+[03-Feb-2024 20:08:47 UTC] Toutes les catégories : Array
+(
+    [0] => WP_Term Object
+        (
+            [term_id] => 5
+            [name] => concert
+            [slug] => concert
+            [term_group] => 0
+            [term_taxonomy_id] => 5
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 4
+            [filter] => raw
+        )
+
+    [1] => WP_Term Object
+        (
+            [term_id] => 6
+            [name] => Mariage
+            [slug] => mariage
+            [term_group] => 0
+            [term_taxonomy_id] => 6
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 9
+            [filter] => raw
+        )
+
+    [2] => WP_Term Object
+        (
+            [term_id] => 4
+            [name] => Réception
+            [slug] => reception
+            [term_group] => 0
+            [term_taxonomy_id] => 4
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 2
+            [filter] => raw
+        )
+
+    [3] => WP_Term Object
+        (
+            [term_id] => 7
+            [name] => Télévision
+            [slug] => television
+            [term_group] => 0
+            [term_taxonomy_id] => 7
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 1
+            [filter] => raw
+        )
+
+)
+
+[03-Feb-2024 20:17:22 UTC] Catégorie reçue dans la requête : concert
+[03-Feb-2024 20:17:22 UTC] Catégorie sélectionnée : concert
+[03-Feb-2024 20:17:22 UTC] Requête SQL : 
+					SELECT SQL_CALC_FOUND_ROWS  wp_posts.ID
+					FROM wp_posts  LEFT JOIN wp_term_relationships ON (wp_posts.ID = wp_term_relationships.object_id)
+					WHERE 1=1  AND ( 
+  wp_term_relationships.term_taxonomy_id IN (5)
+) AND ((wp_posts.post_type = 'photo' AND (wp_posts.post_status = 'publish' OR wp_posts.post_status = 'acf-disabled' OR wp_posts.post_status = 'future' OR wp_posts.post_status = 'draft' OR wp_posts.post_status = 'pending' 
+OR wp_posts.post_status = 'private')))
+					GROUP BY wp_posts.ID
+					ORDER BY wp_posts.post_date DESC
+					LIMIT 8, 8
+				
+[03-Feb-2024 20:17:22 UTC] Toutes les catégories : Array
+(
+    [0] => WP_Term Object
+        (
+            [term_id] => 5
+            [name] => concert
+            [slug] => concert
+            [term_group] => 0
+            [term_taxonomy_id] => 5
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 4
+            [filter] => raw
+        )
+
+    [1] => WP_Term Object
+        (
+            [term_id] => 6
+            [name] => Mariage
+            [slug] => mariage
+            [term_group] => 0
+            [term_taxonomy_id] => 6
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 9
+            [filter] => raw
+        )
+
+    [2] => WP_Term Object
+        (
+            [term_id] => 4
+            [name] => Réception
+            [slug] => reception
+            [term_group] => 0
+            [term_taxonomy_id] => 4
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 2
+            [filter] => raw
+        )
+
+    [3] => WP_Term Object
+        (
+            [term_id] => 7
+            [name] => Télévision
+            [slug] => television
+            [term_group] => 0
+            [term_taxonomy_id] => 7
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 1
+            [filter] => raw
+        )
+
+)
+
+[03-Feb-2024 20:59:47 UTC] Catégorie reçue dans la requête : concert
+[03-Feb-2024 20:59:47 UTC] PHP Warning:  Undefined array key "page" in C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-content\themes\Nathalie-Mota_theme\functions.php on line 136
+[03-Feb-2024 20:59:47 UTC] Catégorie sélectionnée : concert
+[03-Feb-2024 20:59:47 UTC] Toutes les catégories : Array
+(
+    [0] => WP_Term Object
+        (
+            [term_id] => 5
+            [name] => concert
+            [slug] => concert
+            [term_group] => 0
+            [term_taxonomy_id] => 5
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 4
+            [filter] => raw
+        )
+
+    [1] => WP_Term Object
+        (
+            [term_id] => 6
+            [name] => Mariage
+            [slug] => mariage
+            [term_group] => 0
+            [term_taxonomy_id] => 6
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 9
+            [filter] => raw
+        )
+
+    [2] => WP_Term Object
+        (
+            [term_id] => 4
+            [name] => Réception
+            [slug] => reception
+            [term_group] => 0
+            [term_taxonomy_id] => 4
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 2
+            [filter] => raw
+        )
+
+    [3] => WP_Term Object
+        (
+            [term_id] => 7
+            [name] => Télévision
+            [slug] => television
+            [term_group] => 0
+            [term_taxonomy_id] => 7
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 1
+            [filter] => raw
+        )
+
+)
+
+[03-Feb-2024 21:01:40 UTC] Catégorie reçue dans la requête : concert
+[03-Feb-2024 21:01:40 UTC] PHP Warning:  Undefined array key "page" in C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-content\themes\Nathalie-Mota_theme\functions.php on line 136
+[03-Feb-2024 21:01:40 UTC] Catégorie sélectionnée : concert
+[03-Feb-2024 21:01:40 UTC] Toutes les catégories : Array
+(
+    [0] => WP_Term Object
+        (
+            [term_id] => 5
+            [name] => concert
+            [slug] => concert
+            [term_group] => 0
+            [term_taxonomy_id] => 5
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 4
+            [filter] => raw
+        )
+
+    [1] => WP_Term Object
+        (
+            [term_id] => 6
+            [name] => Mariage
+            [slug] => mariage
+            [term_group] => 0
+            [term_taxonomy_id] => 6
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 9
+            [filter] => raw
+        )
+
+    [2] => WP_Term Object
+        (
+            [term_id] => 4
+            [name] => Réception
+            [slug] => reception
+            [term_group] => 0
+            [term_taxonomy_id] => 4
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 2
+            [filter] => raw
+        )
+
+    [3] => WP_Term Object
+        (
+            [term_id] => 7
+            [name] => Télévision
+            [slug] => television
+            [term_group] => 0
+            [term_taxonomy_id] => 7
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 1
+            [filter] => raw
+        )
+
+)
+
+[03-Feb-2024 21:05:28 UTC] Entrée dans load_photos_by_category
+[03-Feb-2024 21:05:28 UTC] Catégorie reçue dans la requête : concert
+[03-Feb-2024 21:05:28 UTC] PHP Warning:  Undefined array key "page" in C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-content\themes\Nathalie-Mota_theme\functions.php on line 137
+[03-Feb-2024 21:05:28 UTC] Catégorie sélectionnée : concert
+[03-Feb-2024 21:05:28 UTC] Toutes les catégories : Array
+(
+    [0] => WP_Term Object
+        (
+            [term_id] => 5
+            [name] => concert
+            [slug] => concert
+            [term_group] => 0
+            [term_taxonomy_id] => 5
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 4
+            [filter] => raw
+        )
+
+    [1] => WP_Term Object
+        (
+            [term_id] => 6
+            [name] => Mariage
+            [slug] => mariage
+            [term_group] => 0
+            [term_taxonomy_id] => 6
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 9
+            [filter] => raw
+        )
+
+    [2] => WP_Term Object
+        (
+            [term_id] => 4
+            [name] => Réception
+            [slug] => reception
+            [term_group] => 0
+            [term_taxonomy_id] => 4
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 2
+            [filter] => raw
+        )
+
+    [3] => WP_Term Object
+        (
+            [term_id] => 7
+            [name] => Télévision
+            [slug] => television
+            [term_group] => 0
+            [term_taxonomy_id] => 7
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 1
+            [filter] => raw
+        )
+
+)
+
+[03-Feb-2024 21:08:51 UTC] Entrée dans load_photos_by_category
+[03-Feb-2024 21:08:51 UTC] Catégorie reçue dans la requête : concert
+[03-Feb-2024 21:08:51 UTC] PHP Warning:  Undefined array key "page" in C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-content\themes\Nathalie-Mota_theme\functions.php on line 137
+[03-Feb-2024 21:08:51 UTC] Catégorie sélectionnée : concert
+[03-Feb-2024 21:08:51 UTC] Toutes les catégories : Array
+(
+    [0] => WP_Term Object
+        (
+            [term_id] => 5
+            [name] => concert
+            [slug] => concert
+            [term_group] => 0
+            [term_taxonomy_id] => 5
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 4
+            [filter] => raw
+        )
+
+    [1] => WP_Term Object
+        (
+            [term_id] => 6
+            [name] => Mariage
+            [slug] => mariage
+            [term_group] => 0
+            [term_taxonomy_id] => 6
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 9
+            [filter] => raw
+        )
+
+    [2] => WP_Term Object
+        (
+            [term_id] => 4
+            [name] => Réception
+            [slug] => reception
+            [term_group] => 0
+            [term_taxonomy_id] => 4
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 2
+            [filter] => raw
+        )
+
+    [3] => WP_Term Object
+        (
+            [term_id] => 7
+            [name] => Télévision
+            [slug] => television
+            [term_group] => 0
+            [term_taxonomy_id] => 7
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 1
+            [filter] => raw
+        )
+
+)
+
+[03-Feb-2024 21:11:18 UTC] Entrée dans load_photos_by_category
+[03-Feb-2024 21:11:18 UTC] Catégorie reçue dans la requête : concert
+[03-Feb-2024 21:11:18 UTC] Catégorie sélectionnée : concert
+[03-Feb-2024 21:11:18 UTC] Toutes les catégories : Array
+(
+    [0] => WP_Term Object
+        (
+            [term_id] => 5
+            [name] => concert
+            [slug] => concert
+            [term_group] => 0
+            [term_taxonomy_id] => 5
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 4
+            [filter] => raw
+        )
+
+    [1] => WP_Term Object
+        (
+            [term_id] => 6
+            [name] => Mariage
+            [slug] => mariage
+            [term_group] => 0
+            [term_taxonomy_id] => 6
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 9
+            [filter] => raw
+        )
+
+    [2] => WP_Term Object
+        (
+            [term_id] => 4
+            [name] => Réception
+            [slug] => reception
+            [term_group] => 0
+            [term_taxonomy_id] => 4
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 2
+            [filter] => raw
+        )
+
+    [3] => WP_Term Object
+        (
+            [term_id] => 7
+            [name] => Télévision
+            [slug] => television
+            [term_group] => 0
+            [term_taxonomy_id] => 7
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 1
+            [filter] => raw
+        )
+
+)
+
+[03-Feb-2024 21:17:38 UTC] Entrée dans load_photos_by_category
+[03-Feb-2024 21:17:38 UTC] Catégorie reçue dans la requête : concert
+[03-Feb-2024 21:17:38 UTC] Catégorie sélectionnée : concert
+[03-Feb-2024 21:17:38 UTC] Toutes les catégories : Array
+(
+    [0] => WP_Term Object
+        (
+            [term_id] => 5
+            [name] => concert
+            [slug] => concert
+            [term_group] => 0
+            [term_taxonomy_id] => 5
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 4
+            [filter] => raw
+        )
+
+    [1] => WP_Term Object
+        (
+            [term_id] => 6
+            [name] => Mariage
+            [slug] => mariage
+            [term_group] => 0
+            [term_taxonomy_id] => 6
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 9
+            [filter] => raw
+        )
+
+    [2] => WP_Term Object
+        (
+            [term_id] => 4
+            [name] => Réception
+            [slug] => reception
+            [term_group] => 0
+            [term_taxonomy_id] => 4
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 2
+            [filter] => raw
+        )
+
+    [3] => WP_Term Object
+        (
+            [term_id] => 7
+            [name] => Télévision
+            [slug] => television
+            [term_group] => 0
+            [term_taxonomy_id] => 7
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 1
+            [filter] => raw
+        )
+
+)
+
+[03-Feb-2024 21:17:44 UTC] Entrée dans load_photos_by_category
+[03-Feb-2024 21:17:44 UTC] Catégorie reçue dans la requête : concert
+[03-Feb-2024 21:17:44 UTC] Catégorie sélectionnée : concert
+[03-Feb-2024 21:17:44 UTC] Toutes les catégories : Array
+(
+    [0] => WP_Term Object
+        (
+            [term_id] => 5
+            [name] => concert
+            [slug] => concert
+            [term_group] => 0
+            [term_taxonomy_id] => 5
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 4
+            [filter] => raw
+        )
+
+    [1] => WP_Term Object
+        (
+            [term_id] => 6
+            [name] => Mariage
+            [slug] => mariage
+            [term_group] => 0
+            [term_taxonomy_id] => 6
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 9
+            [filter] => raw
+        )
+
+    [2] => WP_Term Object
+        (
+            [term_id] => 4
+            [name] => Réception
+            [slug] => reception
+            [term_group] => 0
+            [term_taxonomy_id] => 4
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 2
+            [filter] => raw
+        )
+
+    [3] => WP_Term Object
+        (
+            [term_id] => 7
+            [name] => Télévision
+            [slug] => television
+            [term_group] => 0
+            [term_taxonomy_id] => 7
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 1
+            [filter] => raw
+        )
+
+)
+
+[03-Feb-2024 21:20:04 UTC] Entrée dans load_photos_by_category
+[03-Feb-2024 21:20:04 UTC] Catégorie reçue dans la requête : concert
+[03-Feb-2024 21:20:04 UTC] Catégorie sélectionnée : concert
+[03-Feb-2024 21:20:04 UTC] Toutes les catégories : Array
+(
+    [0] => WP_Term Object
+        (
+            [term_id] => 5
+            [name] => concert
+            [slug] => concert
+            [term_group] => 0
+            [term_taxonomy_id] => 5
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 4
+            [filter] => raw
+        )
+
+    [1] => WP_Term Object
+        (
+            [term_id] => 6
+            [name] => Mariage
+            [slug] => mariage
+            [term_group] => 0
+            [term_taxonomy_id] => 6
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 9
+            [filter] => raw
+        )
+
+    [2] => WP_Term Object
+        (
+            [term_id] => 4
+            [name] => Réception
+            [slug] => reception
+            [term_group] => 0
+            [term_taxonomy_id] => 4
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 2
+            [filter] => raw
+        )
+
+    [3] => WP_Term Object
+        (
+            [term_id] => 7
+            [name] => Télévision
+            [slug] => television
+            [term_group] => 0
+            [term_taxonomy_id] => 7
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 1
+            [filter] => raw
+        )
+
+)
+
+[03-Feb-2024 21:20:20 UTC] Entrée dans load_photos_by_category
+[03-Feb-2024 21:20:20 UTC] Catégorie reçue dans la requête : concert
+[03-Feb-2024 21:20:20 UTC] Catégorie sélectionnée : concert
+[03-Feb-2024 21:20:20 UTC] Toutes les catégories : Array
+(
+    [0] => WP_Term Object
+        (
+            [term_id] => 5
+            [name] => concert
+            [slug] => concert
+            [term_group] => 0
+            [term_taxonomy_id] => 5
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 4
+            [filter] => raw
+        )
+
+    [1] => WP_Term Object
+        (
+            [term_id] => 6
+            [name] => Mariage
+            [slug] => mariage
+            [term_group] => 0
+            [term_taxonomy_id] => 6
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 9
+            [filter] => raw
+        )
+
+    [2] => WP_Term Object
+        (
+            [term_id] => 4
+            [name] => Réception
+            [slug] => reception
+            [term_group] => 0
+            [term_taxonomy_id] => 4
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 2
+            [filter] => raw
+        )
+
+    [3] => WP_Term Object
+        (
+            [term_id] => 7
+            [name] => Télévision
+            [slug] => television
+            [term_group] => 0
+            [term_taxonomy_id] => 7
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 1
+            [filter] => raw
+        )
+
+)
+
+[03-Feb-2024 21:20:30 UTC] Entrée dans load_photos_by_category
+[03-Feb-2024 21:20:30 UTC] Catégorie reçue dans la requête : mariage
+[03-Feb-2024 21:20:30 UTC] Catégorie sélectionnée : mariage
+[03-Feb-2024 21:20:30 UTC] Toutes les catégories : Array
+(
+    [0] => WP_Term Object
+        (
+            [term_id] => 5
+            [name] => concert
+            [slug] => concert
+            [term_group] => 0
+            [term_taxonomy_id] => 5
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 4
+            [filter] => raw
+        )
+
+    [1] => WP_Term Object
+        (
+            [term_id] => 6
+            [name] => Mariage
+            [slug] => mariage
+            [term_group] => 0
+            [term_taxonomy_id] => 6
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 9
+            [filter] => raw
+        )
+
+    [2] => WP_Term Object
+        (
+            [term_id] => 4
+            [name] => Réception
+            [slug] => reception
+            [term_group] => 0
+            [term_taxonomy_id] => 4
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 2
+            [filter] => raw
+        )
+
+    [3] => WP_Term Object
+        (
+            [term_id] => 7
+            [name] => Télévision
+            [slug] => television
+            [term_group] => 0
+            [term_taxonomy_id] => 7
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 1
+            [filter] => raw
+        )
+
+)
+
+[03-Feb-2024 21:20:36 UTC] Entrée dans load_photos_by_category
+[03-Feb-2024 21:20:36 UTC] Catégorie reçue dans la requête : reception
+[03-Feb-2024 21:20:36 UTC] Catégorie sélectionnée : reception
+[03-Feb-2024 21:20:36 UTC] Toutes les catégories : Array
+(
+    [0] => WP_Term Object
+        (
+            [term_id] => 5
+            [name] => concert
+            [slug] => concert
+            [term_group] => 0
+            [term_taxonomy_id] => 5
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 4
+            [filter] => raw
+        )
+
+    [1] => WP_Term Object
+        (
+            [term_id] => 6
+            [name] => Mariage
+            [slug] => mariage
+            [term_group] => 0
+            [term_taxonomy_id] => 6
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 9
+            [filter] => raw
+        )
+
+    [2] => WP_Term Object
+        (
+            [term_id] => 4
+            [name] => Réception
+            [slug] => reception
+            [term_group] => 0
+            [term_taxonomy_id] => 4
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 2
+            [filter] => raw
+        )
+
+    [3] => WP_Term Object
+        (
+            [term_id] => 7
+            [name] => Télévision
+            [slug] => television
+            [term_group] => 0
+            [term_taxonomy_id] => 7
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 1
+            [filter] => raw
+        )
+
+)
+
+[03-Feb-2024 21:20:40 UTC] Entrée dans load_photos_by_category
+[03-Feb-2024 21:20:40 UTC] Catégorie reçue dans la requête : television
+[03-Feb-2024 21:20:40 UTC] Catégorie sélectionnée : television
+[03-Feb-2024 21:20:40 UTC] Toutes les catégories : Array
+(
+    [0] => WP_Term Object
+        (
+            [term_id] => 5
+            [name] => concert
+            [slug] => concert
+            [term_group] => 0
+            [term_taxonomy_id] => 5
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 4
+            [filter] => raw
+        )
+
+    [1] => WP_Term Object
+        (
+            [term_id] => 6
+            [name] => Mariage
+            [slug] => mariage
+            [term_group] => 0
+            [term_taxonomy_id] => 6
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 9
+            [filter] => raw
+        )
+
+    [2] => WP_Term Object
+        (
+            [term_id] => 4
+            [name] => Réception
+            [slug] => reception
+            [term_group] => 0
+            [term_taxonomy_id] => 4
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 2
+            [filter] => raw
+        )
+
+    [3] => WP_Term Object
+        (
+            [term_id] => 7
+            [name] => Télévision
+            [slug] => television
+            [term_group] => 0
+            [term_taxonomy_id] => 7
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 1
+            [filter] => raw
+        )
+
+)
+
+[04-Feb-2024 09:22:35 UTC] Entrée dans load_photos_by_category
+[04-Feb-2024 09:22:35 UTC] Catégorie reçue dans la requête : concert
+[04-Feb-2024 09:22:35 UTC] Catégorie sélectionnée : concert
+[04-Feb-2024 09:22:35 UTC] Toutes les catégories : Array
+(
+    [0] => WP_Term Object
+        (
+            [term_id] => 5
+            [name] => concert
+            [slug] => concert
+            [term_group] => 0
+            [term_taxonomy_id] => 5
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 4
+            [filter] => raw
+        )
+
+    [1] => WP_Term Object
+        (
+            [term_id] => 6
+            [name] => Mariage
+            [slug] => mariage
+            [term_group] => 0
+            [term_taxonomy_id] => 6
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 9
+            [filter] => raw
+        )
+
+    [2] => WP_Term Object
+        (
+            [term_id] => 4
+            [name] => Réception
+            [slug] => reception
+            [term_group] => 0
+            [term_taxonomy_id] => 4
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 2
+            [filter] => raw
+        )
+
+    [3] => WP_Term Object
+        (
+            [term_id] => 7
+            [name] => Télévision
+            [slug] => television
+            [term_group] => 0
+            [term_taxonomy_id] => 7
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 1
+            [filter] => raw
+        )
+
+)
+
+[04-Feb-2024 10:25:38 UTC] Entrée dans load_photos_by_category
+[04-Feb-2024 10:25:38 UTC] Catégorie reçue dans la requête : concert
+[04-Feb-2024 10:25:38 UTC] Catégorie sélectionnée : concert
+[04-Feb-2024 10:25:38 UTC] Toutes les catégories : Array
+(
+    [0] => WP_Term Object
+        (
+            [term_id] => 5
+            [name] => concert
+            [slug] => concert
+            [term_group] => 0
+            [term_taxonomy_id] => 5
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 4
+            [filter] => raw
+        )
+
+    [1] => WP_Term Object
+        (
+            [term_id] => 6
+            [name] => Mariage
+            [slug] => mariage
+            [term_group] => 0
+            [term_taxonomy_id] => 6
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 9
+            [filter] => raw
+        )
+
+    [2] => WP_Term Object
+        (
+            [term_id] => 4
+            [name] => Réception
+            [slug] => reception
+            [term_group] => 0
+            [term_taxonomy_id] => 4
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 2
+            [filter] => raw
+        )
+
+    [3] => WP_Term Object
+        (
+            [term_id] => 7
+            [name] => Télévision
+            [slug] => television
+            [term_group] => 0
+            [term_taxonomy_id] => 7
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 1
+            [filter] => raw
+        )
+
+)
+
+[04-Feb-2024 10:25:45 UTC] Entrée dans load_photos_by_category
+[04-Feb-2024 10:25:45 UTC] Catégorie reçue dans la requête : mariage
+[04-Feb-2024 10:25:45 UTC] Catégorie sélectionnée : mariage
+[04-Feb-2024 10:25:45 UTC] Toutes les catégories : Array
+(
+    [0] => WP_Term Object
+        (
+            [term_id] => 5
+            [name] => concert
+            [slug] => concert
+            [term_group] => 0
+            [term_taxonomy_id] => 5
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 4
+            [filter] => raw
+        )
+
+    [1] => WP_Term Object
+        (
+            [term_id] => 6
+            [name] => Mariage
+            [slug] => mariage
+            [term_group] => 0
+            [term_taxonomy_id] => 6
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 9
+            [filter] => raw
+        )
+
+    [2] => WP_Term Object
+        (
+            [term_id] => 4
+            [name] => Réception
+            [slug] => reception
+            [term_group] => 0
+            [term_taxonomy_id] => 4
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 2
+            [filter] => raw
+        )
+
+    [3] => WP_Term Object
+        (
+            [term_id] => 7
+            [name] => Télévision
+            [slug] => television
+            [term_group] => 0
+            [term_taxonomy_id] => 7
+            [taxonomy] => categorie
+            [description] => 
+            [parent] => 0
+            [count] => 1
+            [filter] => raw
+        )
+
+)
+
+[04-Feb-2024 11:16:22 UTC] Entrée dans load_photos_by_category_and_format
+[04-Feb-2024 11:16:22 UTC] Catégorie sélectionnée : 
+[04-Feb-2024 11:16:22 UTC] Format sélectionné : paysage
+[04-Feb-2024 11:17:41 UTC] Entrée dans load_photos_by_category_and_format
+[04-Feb-2024 11:17:41 UTC] Catégorie sélectionnée : 
+[04-Feb-2024 11:17:41 UTC] Format sélectionné : paysage
+[04-Feb-2024 11:20:32 UTC] Entrée dans load_photos_by_category_and_format
+[04-Feb-2024 11:20:32 UTC] Catégorie sélectionnée : 
+[04-Feb-2024 11:20:32 UTC] Format sélectionné : paysage
+[04-Feb-2024 11:20:47 UTC] Entrée dans load_photos_by_category_and_format
+[04-Feb-2024 11:20:47 UTC] Catégorie sélectionnée : 
+[04-Feb-2024 11:20:47 UTC] Format sélectionné : portrait
+[04-Feb-2024 11:20:54 UTC] Entrée dans load_photos_by_category_and_format
+[04-Feb-2024 11:20:54 UTC] Catégorie sélectionnée : mariage
+[04-Feb-2024 11:20:54 UTC] Format sélectionné : portrait
+[04-Feb-2024 11:21:00 UTC] Entrée dans load_photos_by_category_and_format
+[04-Feb-2024 11:21:00 UTC] Catégorie sélectionnée : concert
+[04-Feb-2024 11:21:00 UTC] Format sélectionné : portrait
+[04-Feb-2024 11:21:04 UTC] Entrée dans load_photos_by_category_and_format
+[04-Feb-2024 11:21:04 UTC] Catégorie sélectionnée : concert
+[04-Feb-2024 11:21:04 UTC] Format sélectionné : paysage
+[04-Feb-2024 11:21:09 UTC] Entrée dans load_photos_by_category_and_format
+[04-Feb-2024 11:21:09 UTC] Catégorie sélectionnée : 
+[04-Feb-2024 11:21:09 UTC] Format sélectionné : paysage
+[04-Feb-2024 11:21:14 UTC] Entrée dans load_photos_by_category_and_format
+[04-Feb-2024 11:21:14 UTC] Catégorie sélectionnée : 
+[04-Feb-2024 11:21:14 UTC] Format sélectionné : 
+[04-Feb-2024 11:43:07 UTC] Entrée dans load_photos_by_category_and_format
+[04-Feb-2024 11:43:07 UTC] Catégorie sélectionnée : 
+[04-Feb-2024 11:43:07 UTC] Format sélectionné : 
+[04-Feb-2024 11:43:07 UTC] Filtre de date sélectionné : old
+[04-Feb-2024 12:22:04 UTC] Entrée dans load_photos_by_category_and_format
+[04-Feb-2024 12:22:04 UTC] Catégorie sélectionnée : 
+[04-Feb-2024 12:22:04 UTC] Format sélectionné : 
+[04-Feb-2024 12:22:04 UTC] Filtre de date sélectionné : old
+[04-Feb-2024 12:22:13 UTC] Entrée dans load_photos_by_category_and_format
+[04-Feb-2024 12:22:13 UTC] Catégorie sélectionnée : 
+[04-Feb-2024 12:22:13 UTC] Format sélectionné : 
+[04-Feb-2024 12:22:13 UTC] Filtre de date sélectionné : recent
+[04-Feb-2024 12:22:20 UTC] Entrée dans load_photos_by_category_and_format
+[04-Feb-2024 12:22:20 UTC] Catégorie sélectionnée : 
+[04-Feb-2024 12:22:20 UTC] Format sélectionné : paysage
+[04-Feb-2024 12:22:20 UTC] Filtre de date sélectionné : recent
+[04-Feb-2024 12:22:24 UTC] Entrée dans load_photos_by_category_and_format
+[04-Feb-2024 12:22:24 UTC] Catégorie sélectionnée : 
+[04-Feb-2024 12:22:24 UTC] Format sélectionné : 
+[04-Feb-2024 12:22:24 UTC] Filtre de date sélectionné : old
+[04-Feb-2024 12:25:26 UTC] Entrée dans load_photos_by_category_and_format
+[04-Feb-2024 12:25:26 UTC] Catégorie sélectionnée : 
+[04-Feb-2024 12:25:26 UTC] Format sélectionné : 
+[04-Feb-2024 12:25:26 UTC] Filtre de date sélectionné : old
+[04-Feb-2024 12:25:28 UTC] Entrée dans load_photos_by_category_and_format
+[04-Feb-2024 12:25:28 UTC] Catégorie sélectionnée : 
+[04-Feb-2024 12:25:28 UTC] Format sélectionné : 
+[04-Feb-2024 12:25:28 UTC] Filtre de date sélectionné : recent
+[04-Feb-2024 12:25:32 UTC] Entrée dans load_photos_by_category_and_format
+[04-Feb-2024 12:25:32 UTC] Catégorie sélectionnée : 
+[04-Feb-2024 12:25:32 UTC] Format sélectionné : 
+[04-Feb-2024 12:25:32 UTC] Filtre de date sélectionné : old
+[04-Feb-2024 12:29:03 UTC] Entrée dans load_photos_by_category_and_format
+[04-Feb-2024 12:29:03 UTC] Catégorie sélectionnée : 
+[04-Feb-2024 12:29:03 UTC] Format sélectionné : 
+[04-Feb-2024 12:29:03 UTC] Filtre de date sélectionné : old
+[04-Feb-2024 12:29:08 UTC] Entrée dans load_photos_by_category_and_format
+[04-Feb-2024 12:29:08 UTC] Catégorie sélectionnée : 
+[04-Feb-2024 12:29:08 UTC] Format sélectionné : 
+[04-Feb-2024 12:29:08 UTC] Filtre de date sélectionné : recent
+[04-Feb-2024 12:29:11 UTC] Entrée dans load_photos_by_category_and_format
+[04-Feb-2024 12:29:11 UTC] Catégorie sélectionnée : concert
+[04-Feb-2024 12:29:11 UTC] Format sélectionné : 
+[04-Feb-2024 12:29:11 UTC] Filtre de date sélectionné : recent
+[04-Feb-2024 12:29:14 UTC] Entrée dans load_photos_by_category_and_format
+[04-Feb-2024 12:29:14 UTC] Catégorie sélectionnée : concert
+[04-Feb-2024 12:29:14 UTC] Format sélectionné : 
+[04-Feb-2024 12:29:14 UTC] Filtre de date sélectionné : old
+[04-Feb-2024 14:09:01 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée in C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-includes\class-wpdb.php on line 1987
+[04-Feb-2024 15:17:31 UTC] Entrée dans load_photos_by_category_and_format
+[04-Feb-2024 15:17:31 UTC] Catégorie sélectionnée : concert
+[04-Feb-2024 15:17:31 UTC] Format sélectionné : 
+[04-Feb-2024 15:17:31 UTC] Filtre de date sélectionné : recent
+[04-Feb-2024 15:17:33 UTC] Entrée dans load_photos_by_category_and_format
+[04-Feb-2024 15:17:33 UTC] Catégorie sélectionnée : 
+[04-Feb-2024 15:17:33 UTC] Format sélectionné : 
+[04-Feb-2024 15:17:33 UTC] Filtre de date sélectionné : recent
+[04-Feb-2024 15:17:35 UTC] Entrée dans load_photos_by_category_and_format
+[04-Feb-2024 15:17:35 UTC] Catégorie sélectionnée : 
+[04-Feb-2024 15:17:35 UTC] Format sélectionné : paysage
+[04-Feb-2024 15:17:35 UTC] Filtre de date sélectionné : recent
+[04-Feb-2024 15:17:37 UTC] Entrée dans load_photos_by_category_and_format
+[04-Feb-2024 15:17:37 UTC] Catégorie sélectionnée : 
+[04-Feb-2024 15:17:37 UTC] Format sélectionné : 
+[04-Feb-2024 15:17:37 UTC] Filtre de date sélectionné : recent
+[04-Feb-2024 15:17:39 UTC] Entrée dans load_photos_by_category_and_format
+[04-Feb-2024 15:17:39 UTC] Catégorie sélectionnée : 
+[04-Feb-2024 15:17:39 UTC] Format sélectionné : 
+[04-Feb-2024 15:17:39 UTC] Filtre de date sélectionné : old
+[04-Feb-2024 15:17:41 UTC] Entrée dans load_photos_by_category_and_format
+[04-Feb-2024 15:17:41 UTC] Catégorie sélectionnée : 
+[04-Feb-2024 15:17:41 UTC] Format sélectionné : 
+[04-Feb-2024 15:17:41 UTC] Filtre de date sélectionné : recent
+[04-Feb-2024 16:05:37 UTC] Entrée dans load_photos_by_category_and_format
+[04-Feb-2024 16:05:37 UTC] Catégorie sélectionnée : 
+[04-Feb-2024 16:05:37 UTC] Format sélectionné : 
+[04-Feb-2024 16:05:37 UTC] Filtre de date sélectionné : old
+[04-Feb-2024 16:05:45 UTC] Entrée dans load_photos_by_category_and_format
+[04-Feb-2024 16:05:45 UTC] Catégorie sélectionnée : 
+[04-Feb-2024 16:05:45 UTC] Format sélectionné : 
+[04-Feb-2024 16:05:45 UTC] Filtre de date sélectionné : recent
+[06-Feb-2024 09:04:53 UTC] Entrée dans load_photos_by_category_and_format
+[06-Feb-2024 09:04:53 UTC] Catégorie sélectionnée : concert
+[06-Feb-2024 09:04:53 UTC] Format sélectionné : 
+[06-Feb-2024 09:04:53 UTC] Filtre de date sélectionné : recent
+[06-Feb-2024 09:04:55 UTC] Entrée dans load_photos_by_category_and_format
+[06-Feb-2024 09:04:55 UTC] Catégorie sélectionnée : 
+[06-Feb-2024 09:04:55 UTC] Format sélectionné : 
+[06-Feb-2024 09:04:55 UTC] Filtre de date sélectionné : recent
+[06-Feb-2024 09:04:56 UTC] Entrée dans load_photos_by_category_and_format
+[06-Feb-2024 09:04:56 UTC] Catégorie sélectionnée : 
+[06-Feb-2024 09:04:56 UTC] Format sélectionné : paysage
+[06-Feb-2024 09:04:56 UTC] Filtre de date sélectionné : recent
+[06-Feb-2024 09:04:58 UTC] Entrée dans load_photos_by_category_and_format
+[06-Feb-2024 09:04:58 UTC] Catégorie sélectionnée : 
+[06-Feb-2024 09:04:58 UTC] Format sélectionné : 
+[06-Feb-2024 09:04:58 UTC] Filtre de date sélectionné : recent
+[06-Feb-2024 09:04:59 UTC] Entrée dans load_photos_by_category_and_format
+[06-Feb-2024 09:04:59 UTC] Catégorie sélectionnée : 
+[06-Feb-2024 09:04:59 UTC] Format sélectionné : 
+[06-Feb-2024 09:04:59 UTC] Filtre de date sélectionné : old
+[06-Feb-2024 09:05:01 UTC] Entrée dans load_photos_by_category_and_format
+[06-Feb-2024 09:05:01 UTC] Catégorie sélectionnée : 
+[06-Feb-2024 09:05:01 UTC] Format sélectionné : 
+[06-Feb-2024 09:05:01 UTC] Filtre de date sélectionné : recent
+[06-Feb-2024 09:32:37 UTC] Entrée dans load_photos_by_category_and_format
+[06-Feb-2024 09:32:37 UTC] Catégorie sélectionnée : concert
+[06-Feb-2024 09:32:37 UTC] Format sélectionné : 
+[06-Feb-2024 09:32:37 UTC] Filtre de date sélectionné : recent
+[06-Feb-2024 09:32:39 UTC] Entrée dans load_photos_by_category_and_format
+[06-Feb-2024 09:32:39 UTC] Catégorie sélectionnée : concert
+[06-Feb-2024 09:32:39 UTC] Format sélectionné : paysage
+[06-Feb-2024 09:32:39 UTC] Filtre de date sélectionné : recent
+[06-Feb-2024 09:32:41 UTC] Entrée dans load_photos_by_category_and_format
+[06-Feb-2024 09:32:41 UTC] Catégorie sélectionnée : concert
+[06-Feb-2024 09:32:41 UTC] Format sélectionné : paysage
+[06-Feb-2024 09:32:41 UTC] Filtre de date sélectionné : old
+[06-Feb-2024 09:37:27 UTC] Entrée dans load_photos_by_category_and_format
+[06-Feb-2024 09:37:27 UTC] Catégorie sélectionnée : concert
+[06-Feb-2024 09:37:27 UTC] Format sélectionné : 
+[06-Feb-2024 09:37:27 UTC] Filtre de date sélectionné : recent
+[06-Feb-2024 10:08:16 UTC] Entrée dans load_photos_by_category_and_format
+[06-Feb-2024 10:08:16 UTC] Catégorie sélectionnée : concert
+[06-Feb-2024 10:08:16 UTC] Format sélectionné : 
+[06-Feb-2024 10:08:16 UTC] Filtre de date sélectionné : recent
+[06-Feb-2024 10:08:17 UTC] Entrée dans load_photos_by_category_and_format
+[06-Feb-2024 10:08:17 UTC] Catégorie sélectionnée : concert
+[06-Feb-2024 10:08:17 UTC] Format sélectionné : paysage
+[06-Feb-2024 10:08:17 UTC] Filtre de date sélectionné : recent
+[06-Feb-2024 10:08:21 UTC] Entrée dans load_photos_by_category_and_format
+[06-Feb-2024 10:08:21 UTC] Catégorie sélectionnée : concert
+[06-Feb-2024 10:08:21 UTC] Format sélectionné : paysage
+[06-Feb-2024 10:08:21 UTC] Filtre de date sélectionné : old
+[06-Feb-2024 10:14:56 UTC] Entrée dans load_photos_by_category_and_format
+[06-Feb-2024 10:14:56 UTC] Catégorie sélectionnée : concert
+[06-Feb-2024 10:14:56 UTC] Format sélectionné : 
+[06-Feb-2024 10:14:56 UTC] Filtre de date sélectionné : recent
+[06-Feb-2024 10:14:58 UTC] Entrée dans load_photos_by_category_and_format
+[06-Feb-2024 10:14:58 UTC] Catégorie sélectionnée : concert
+[06-Feb-2024 10:14:58 UTC] Format sélectionné : paysage
+[06-Feb-2024 10:14:58 UTC] Filtre de date sélectionné : recent
+[06-Feb-2024 10:15:00 UTC] Entrée dans load_photos_by_category_and_format
+[06-Feb-2024 10:15:00 UTC] Catégorie sélectionnée : concert
+[06-Feb-2024 10:15:00 UTC] Format sélectionné : paysage
+[06-Feb-2024 10:15:00 UTC] Filtre de date sélectionné : old
+[06-Feb-2024 10:15:04 UTC] Entrée dans load_photos_by_category_and_format
+[06-Feb-2024 10:15:04 UTC] Catégorie sélectionnée : concert
+[06-Feb-2024 10:15:04 UTC] Format sélectionné : paysage
+[06-Feb-2024 10:15:04 UTC] Filtre de date sélectionné : recent
+[06-Feb-2024 10:17:40 UTC] Entrée dans load_photos_by_category_and_format
+[06-Feb-2024 10:17:40 UTC] Catégorie sélectionnée : concert
+[06-Feb-2024 10:17:40 UTC] Format sélectionné : 
+[06-Feb-2024 10:17:40 UTC] Filtre de date sélectionné : recent
+[06-Feb-2024 10:17:42 UTC] Entrée dans load_photos_by_category_and_format
+[06-Feb-2024 10:17:42 UTC] Catégorie sélectionnée : concert
+[06-Feb-2024 10:17:42 UTC] Format sélectionné : paysage
+[06-Feb-2024 10:17:42 UTC] Filtre de date sélectionné : recent
+[06-Feb-2024 10:17:44 UTC] Entrée dans load_photos_by_category_and_format
+[06-Feb-2024 10:17:44 UTC] Catégorie sélectionnée : concert
+[06-Feb-2024 10:17:44 UTC] Format sélectionné : paysage
+[06-Feb-2024 10:17:44 UTC] Filtre de date sélectionné : old
+[06-Feb-2024 10:26:40 UTC] Entrée dans load_photos_by_category_and_format
+[06-Feb-2024 10:26:40 UTC] Catégorie sélectionnée : concert
+[06-Feb-2024 10:26:40 UTC] Format sélectionné : 
+[06-Feb-2024 10:26:40 UTC] Filtre de date sélectionné : recent
+[06-Feb-2024 10:26:42 UTC] Entrée dans load_photos_by_category_and_format
+[06-Feb-2024 10:26:42 UTC] Catégorie sélectionnée : concert
+[06-Feb-2024 10:26:42 UTC] Format sélectionné : paysage
+[06-Feb-2024 10:26:42 UTC] Filtre de date sélectionné : recent
+[06-Feb-2024 10:26:44 UTC] Entrée dans load_photos_by_category_and_format
+[06-Feb-2024 10:26:44 UTC] Catégorie sélectionnée : concert
+[06-Feb-2024 10:26:44 UTC] Format sélectionné : paysage
+[06-Feb-2024 10:26:44 UTC] Filtre de date sélectionné : old
+[07-Feb-2024 08:52:43 UTC] Entrée dans load_photos_by_category_and_format
+[07-Feb-2024 08:52:43 UTC] Catégorie sélectionnée : concert
+[07-Feb-2024 08:52:43 UTC] Format sélectionné : 
+[07-Feb-2024 08:52:43 UTC] Filtre de date sélectionné : recent
+[07-Feb-2024 08:52:47 UTC] Entrée dans load_photos_by_category_and_format
+[07-Feb-2024 08:52:47 UTC] Catégorie sélectionnée : concert
+[07-Feb-2024 08:52:47 UTC] Format sélectionné : paysage
+[07-Feb-2024 08:52:47 UTC] Filtre de date sélectionné : recent
+[07-Feb-2024 08:52:49 UTC] Entrée dans load_photos_by_category_and_format
+[07-Feb-2024 08:52:49 UTC] Catégorie sélectionnée : concert
+[07-Feb-2024 08:52:49 UTC] Format sélectionné : paysage
+[07-Feb-2024 08:52:49 UTC] Filtre de date sélectionné : old
+[07-Feb-2024 08:52:52 UTC] Entrée dans load_photos_by_category_and_format
+[07-Feb-2024 08:52:52 UTC] Catégorie sélectionnée : concert
+[07-Feb-2024 08:52:52 UTC] Format sélectionné : paysage
+[07-Feb-2024 08:52:52 UTC] Filtre de date sélectionné : recent
+[07-Feb-2024 08:52:54 UTC] Entrée dans load_photos_by_category_and_format
+[07-Feb-2024 08:52:54 UTC] Catégorie sélectionnée : 
+[07-Feb-2024 08:52:54 UTC] Format sélectionné : paysage
+[07-Feb-2024 08:52:54 UTC] Filtre de date sélectionné : recent
+[07-Feb-2024 09:28:29 UTC] Entrée dans load_photos_by_category_and_format
+[07-Feb-2024 09:28:29 UTC] Catégorie sélectionnée : concert
+[07-Feb-2024 09:28:29 UTC] Format sélectionné : 
+[07-Feb-2024 09:28:29 UTC] Filtre de date sélectionné : recent
+[07-Feb-2024 09:28:31 UTC] Entrée dans load_photos_by_category_and_format
+[07-Feb-2024 09:28:31 UTC] Catégorie sélectionnée : concert
+[07-Feb-2024 09:28:31 UTC] Format sélectionné : paysage
+[07-Feb-2024 09:28:31 UTC] Filtre de date sélectionné : recent
+[07-Feb-2024 09:28:34 UTC] Entrée dans load_photos_by_category_and_format
+[07-Feb-2024 09:28:34 UTC] Catégorie sélectionnée : concert
+[07-Feb-2024 09:28:34 UTC] Format sélectionné : paysage
+[07-Feb-2024 09:28:34 UTC] Filtre de date sélectionné : old
+[07-Feb-2024 09:28:37 UTC] Entrée dans load_photos_by_category_and_format
+[07-Feb-2024 09:28:37 UTC] Catégorie sélectionnée : 
+[07-Feb-2024 09:28:37 UTC] Format sélectionné : paysage
+[07-Feb-2024 09:28:37 UTC] Filtre de date sélectionné : old
+[07-Feb-2024 09:28:40 UTC] Entrée dans load_photos_by_category_and_format
+[07-Feb-2024 09:28:40 UTC] Catégorie sélectionnée : 
+[07-Feb-2024 09:28:40 UTC] Format sélectionné : 
+[07-Feb-2024 09:28:40 UTC] Filtre de date sélectionné : old
+[07-Feb-2024 09:28:42 UTC] Entrée dans load_photos_by_category_and_format
+[07-Feb-2024 09:28:42 UTC] Catégorie sélectionnée : 
+[07-Feb-2024 09:28:42 UTC] Format sélectionné : 
+[07-Feb-2024 09:28:42 UTC] Filtre de date sélectionné : recent
+[07-Feb-2024 10:05:16 UTC] Entrée dans load_photos_by_category_and_format
+[07-Feb-2024 10:05:16 UTC] Catégorie sélectionnée : concert
+[07-Feb-2024 10:05:16 UTC] Format sélectionné : 
+[07-Feb-2024 10:05:16 UTC] Filtre de date sélectionné : recent
+[07-Feb-2024 10:05:20 UTC] Entrée dans load_photos_by_category_and_format
+[07-Feb-2024 10:05:20 UTC] Catégorie sélectionnée : concert
+[07-Feb-2024 10:05:20 UTC] Format sélectionné : paysage
+[07-Feb-2024 10:05:20 UTC] Filtre de date sélectionné : recent
+[07-Feb-2024 10:05:22 UTC] Entrée dans load_photos_by_category_and_format
+[07-Feb-2024 10:05:22 UTC] Catégorie sélectionnée : concert
+[07-Feb-2024 10:05:22 UTC] Format sélectionné : paysage
+[07-Feb-2024 10:05:22 UTC] Filtre de date sélectionné : old
+[07-Feb-2024 10:15:58 UTC] Entrée dans load_photos_by_category_and_format
+[07-Feb-2024 10:15:58 UTC] Catégorie sélectionnée : concert
+[07-Feb-2024 10:15:58 UTC] Format sélectionné : 
+[07-Feb-2024 10:15:58 UTC] Filtre de date sélectionné : recent
+[07-Feb-2024 10:16:00 UTC] Entrée dans load_photos_by_category_and_format
+[07-Feb-2024 10:16:00 UTC] Catégorie sélectionnée : concert
+[07-Feb-2024 10:16:00 UTC] Format sélectionné : paysage
+[07-Feb-2024 10:16:00 UTC] Filtre de date sélectionné : recent
+[07-Feb-2024 10:16:01 UTC] Entrée dans load_photos_by_category_and_format
+[07-Feb-2024 10:16:01 UTC] Catégorie sélectionnée : concert
+[07-Feb-2024 10:16:01 UTC] Format sélectionné : paysage
+[07-Feb-2024 10:16:01 UTC] Filtre de date sélectionné : old
+[07-Feb-2024 10:20:19 UTC] Entrée dans load_photos_by_category_and_format
+[07-Feb-2024 10:20:19 UTC] Catégorie sélectionnée : concert
+[07-Feb-2024 10:20:19 UTC] Format sélectionné : 
+[07-Feb-2024 10:20:19 UTC] Filtre de date sélectionné : recent
+[07-Feb-2024 21:10:27 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée in C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-includes\class-wpdb.php on line 1987
+[07-Feb-2024 21:15:56 UTC] Entrée dans load_photos_by_category_and_format
+[07-Feb-2024 21:15:56 UTC] Catégorie sélectionnée : concert
+[07-Feb-2024 21:15:56 UTC] Format sélectionné : 
+[07-Feb-2024 21:15:56 UTC] Filtre de date sélectionné : recent
+[07-Feb-2024 21:16:04 UTC] Entrée dans load_photos_by_category_and_format
+[07-Feb-2024 21:16:04 UTC] Catégorie sélectionnée : concert
+[07-Feb-2024 21:16:04 UTC] Format sélectionné : paysage
+[07-Feb-2024 21:16:04 UTC] Filtre de date sélectionné : recent
+[07-Feb-2024 21:16:14 UTC] Entrée dans load_photos_by_category_and_format
+[07-Feb-2024 21:16:14 UTC] Catégorie sélectionnée : concert
+[07-Feb-2024 21:16:14 UTC] Format sélectionné : portrait
+[07-Feb-2024 21:16:14 UTC] Filtre de date sélectionné : recent
+[07-Feb-2024 21:16:21 UTC] Entrée dans load_photos_by_category_and_format
+[07-Feb-2024 21:16:21 UTC] Catégorie sélectionnée : mariage
+[07-Feb-2024 21:16:21 UTC] Format sélectionné : portrait
+[07-Feb-2024 21:16:21 UTC] Filtre de date sélectionné : recent
+[07-Feb-2024 21:16:29 UTC] Entrée dans load_photos_by_category_and_format
+[07-Feb-2024 21:16:29 UTC] Catégorie sélectionnée : mariage
+[07-Feb-2024 21:16:29 UTC] Format sélectionné : portrait
+[07-Feb-2024 21:16:29 UTC] Filtre de date sélectionné : old
+[08-Feb-2024 08:09:19 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 08:09:19 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 08:09:19 UTC] Format sélectionné : 
+[08-Feb-2024 08:09:19 UTC] Filtre de date sélectionné : recent
+[08-Feb-2024 08:09:21 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 08:09:21 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 08:09:21 UTC] Format sélectionné : paysage
+[08-Feb-2024 08:09:21 UTC] Filtre de date sélectionné : recent
+[08-Feb-2024 08:09:24 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 08:09:24 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 08:09:24 UTC] Format sélectionné : paysage
+[08-Feb-2024 08:09:24 UTC] Filtre de date sélectionné : old
+[08-Feb-2024 08:09:26 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 08:09:26 UTC] Catégorie sélectionnée : 
+[08-Feb-2024 08:09:26 UTC] Format sélectionné : paysage
+[08-Feb-2024 08:09:26 UTC] Filtre de date sélectionné : old
+[08-Feb-2024 08:32:18 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 08:32:18 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 08:32:18 UTC] Format sélectionné : 
+[08-Feb-2024 08:32:18 UTC] Filtre de date sélectionné : recent
+[08-Feb-2024 08:32:23 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 08:32:23 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 08:32:23 UTC] Format sélectionné : paysage
+[08-Feb-2024 08:32:23 UTC] Filtre de date sélectionné : recent
+[08-Feb-2024 08:32:26 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 08:32:26 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 08:32:26 UTC] Format sélectionné : paysage
+[08-Feb-2024 08:32:26 UTC] Filtre de date sélectionné : old
+[08-Feb-2024 08:32:34 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 08:32:34 UTC] Catégorie sélectionnée : 
+[08-Feb-2024 08:32:34 UTC] Format sélectionné : paysage
+[08-Feb-2024 08:32:34 UTC] Filtre de date sélectionné : old
+[08-Feb-2024 17:28:35 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 17:28:35 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 17:28:35 UTC] Format sélectionné : 
+[08-Feb-2024 17:28:35 UTC] Filtre de date sélectionné : recent
+[08-Feb-2024 17:34:37 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 17:34:37 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 17:34:37 UTC] Format sélectionné : 
+[08-Feb-2024 17:34:37 UTC] Filtre de date sélectionné : recent
+[08-Feb-2024 17:34:54 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 17:34:54 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 17:34:54 UTC] Format sélectionné : 
+[08-Feb-2024 17:34:54 UTC] Filtre de date sélectionné : recent
+[08-Feb-2024 17:35:08 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 17:35:08 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 17:35:08 UTC] Format sélectionné : 
+[08-Feb-2024 17:35:08 UTC] Filtre de date sélectionné : recent
+[08-Feb-2024 17:35:10 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 17:35:10 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 17:35:10 UTC] Format sélectionné : paysage
+[08-Feb-2024 17:35:10 UTC] Filtre de date sélectionné : recent
+[08-Feb-2024 17:36:50 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 17:36:50 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 17:36:50 UTC] Format sélectionné : 
+[08-Feb-2024 17:36:50 UTC] Filtre de date sélectionné : recent
+[08-Feb-2024 17:36:53 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 17:36:53 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 17:36:53 UTC] Format sélectionné : paysage
+[08-Feb-2024 17:36:53 UTC] Filtre de date sélectionné : recent
+[08-Feb-2024 17:38:52 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 17:38:52 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 17:38:52 UTC] Format sélectionné : 
+[08-Feb-2024 17:38:52 UTC] Filtre de date sélectionné : recent
+[08-Feb-2024 17:43:20 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 17:43:20 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 17:43:20 UTC] Format sélectionné : 
+[08-Feb-2024 17:43:20 UTC] Filtre de date sélectionné : recent
+[08-Feb-2024 17:44:55 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 17:44:55 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 17:44:55 UTC] Format sélectionné : 
+[08-Feb-2024 17:44:55 UTC] Filtre de date sélectionné : recent
+[08-Feb-2024 17:44:57 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 17:44:57 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 17:44:57 UTC] Format sélectionné : paysage
+[08-Feb-2024 17:44:57 UTC] Filtre de date sélectionné : recent
+[08-Feb-2024 17:52:17 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 17:52:17 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 17:52:17 UTC] Format sélectionné : 
+[08-Feb-2024 17:52:17 UTC] Filtre de date sélectionné : recent
+[08-Feb-2024 17:52:21 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 17:52:21 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 17:52:21 UTC] Format sélectionné : paysage
+[08-Feb-2024 17:52:21 UTC] Filtre de date sélectionné : recent
+[08-Feb-2024 17:55:47 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 17:55:47 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 17:55:47 UTC] Format sélectionné : 
+[08-Feb-2024 17:55:47 UTC] Filtre de date sélectionné : recent
+[08-Feb-2024 17:55:50 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 17:55:50 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 17:55:50 UTC] Format sélectionné : paysage
+[08-Feb-2024 17:55:50 UTC] Filtre de date sélectionné : recent
+[08-Feb-2024 17:57:38 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 17:57:38 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 17:57:38 UTC] Format sélectionné : 
+[08-Feb-2024 17:57:38 UTC] Filtre de date sélectionné : recent
+[08-Feb-2024 17:57:42 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 17:57:42 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 17:57:42 UTC] Format sélectionné : paysage
+[08-Feb-2024 17:57:42 UTC] Filtre de date sélectionné : recent
+[08-Feb-2024 18:07:51 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 18:07:51 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 18:07:51 UTC] Format sélectionné : 
+[08-Feb-2024 18:07:51 UTC] Filtre de date sélectionné : recent
+[08-Feb-2024 18:07:52 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 18:07:52 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 18:07:52 UTC] Format sélectionné : paysage
+[08-Feb-2024 18:07:52 UTC] Filtre de date sélectionné : recent
+[08-Feb-2024 18:15:08 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 18:15:08 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 18:15:08 UTC] Format sélectionné : 
+[08-Feb-2024 18:15:08 UTC] Filtre de date sélectionné : recent
+[08-Feb-2024 18:15:10 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 18:15:10 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 18:15:10 UTC] Format sélectionné : paysage
+[08-Feb-2024 18:15:10 UTC] Filtre de date sélectionné : recent
+[08-Feb-2024 18:23:18 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 18:23:18 UTC] Catégorie sélectionnée : mariage
+[08-Feb-2024 18:23:18 UTC] Format sélectionné : 
+[08-Feb-2024 18:23:18 UTC] Filtre de date sélectionné : recent
+[08-Feb-2024 18:23:20 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 18:23:20 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 18:23:20 UTC] Format sélectionné : 
+[08-Feb-2024 18:23:20 UTC] Filtre de date sélectionné : recent
+[08-Feb-2024 18:23:22 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 18:23:22 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 18:23:22 UTC] Format sélectionné : paysage
+[08-Feb-2024 18:23:22 UTC] Filtre de date sélectionné : recent
+[08-Feb-2024 18:25:57 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 18:25:57 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 18:25:57 UTC] Format sélectionné : null
+[08-Feb-2024 18:25:57 UTC] Filtre de date sélectionné : recent
+[08-Feb-2024 18:27:47 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 18:27:47 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 18:27:47 UTC] Format sélectionné : 
+[08-Feb-2024 18:27:47 UTC] Filtre de date sélectionné : recent
+[08-Feb-2024 18:28:57 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 18:28:57 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 18:28:57 UTC] Format sélectionné : undefined
+[08-Feb-2024 18:28:57 UTC] Filtre de date sélectionné : recent
+[08-Feb-2024 18:31:41 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 18:31:41 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 18:31:41 UTC] Format sélectionné : 
+[08-Feb-2024 18:31:41 UTC] Filtre de date sélectionné : recent
+[08-Feb-2024 18:38:37 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 18:38:37 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 18:38:37 UTC] Format sélectionné : 
+[08-Feb-2024 18:38:37 UTC] Filtre de date sélectionné : recent
+[08-Feb-2024 18:38:46 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 18:38:46 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 18:38:46 UTC] Format sélectionné : paysage
+[08-Feb-2024 18:38:46 UTC] Filtre de date sélectionné : recent
+[08-Feb-2024 18:38:47 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 18:38:47 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 18:38:47 UTC] Format sélectionné : paysage
+[08-Feb-2024 18:38:47 UTC] Filtre de date sélectionné : old
+[08-Feb-2024 18:38:59 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 18:38:59 UTC] Catégorie sélectionnée : 
+[08-Feb-2024 18:38:59 UTC] Format sélectionné : paysage
+[08-Feb-2024 18:38:59 UTC] Filtre de date sélectionné : recent
+[08-Feb-2024 20:42:57 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 20:42:57 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 20:42:57 UTC] Format sélectionné : 
+[08-Feb-2024 20:42:57 UTC] Filtre de date sélectionné : recent
+[08-Feb-2024 20:45:19 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 20:45:19 UTC] Catégorie sélectionnée : 
+[08-Feb-2024 20:45:19 UTC] Format sélectionné : 
+[08-Feb-2024 20:45:19 UTC] Filtre de date sélectionné : old
+[08-Feb-2024 20:45:30 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 20:45:30 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 20:45:30 UTC] Format sélectionné : 
+[08-Feb-2024 20:45:30 UTC] Filtre de date sélectionné : recent
+[08-Feb-2024 20:45:31 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 20:45:31 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 20:45:31 UTC] Format sélectionné : paysage
+[08-Feb-2024 20:45:31 UTC] Filtre de date sélectionné : recent
+[08-Feb-2024 20:45:33 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 20:45:33 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 20:45:33 UTC] Format sélectionné : paysage
+[08-Feb-2024 20:45:33 UTC] Filtre de date sélectionné : old
+[08-Feb-2024 20:52:24 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 20:52:24 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 20:52:24 UTC] Format sélectionné : 
+[08-Feb-2024 20:52:24 UTC] Filtre de date sélectionné : recent
+[08-Feb-2024 20:52:29 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 20:52:29 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 20:52:29 UTC] Format sélectionné : 
+[08-Feb-2024 20:52:29 UTC] Filtre de date sélectionné : recent
+[08-Feb-2024 20:52:31 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 20:52:31 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 20:52:31 UTC] Format sélectionné : paysage
+[08-Feb-2024 20:52:31 UTC] Filtre de date sélectionné : recent
+[08-Feb-2024 20:52:32 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 20:52:32 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 20:52:32 UTC] Format sélectionné : paysage
+[08-Feb-2024 20:52:32 UTC] Filtre de date sélectionné : old
+[08-Feb-2024 20:55:22 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 20:55:22 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 20:55:22 UTC] Format sélectionné : 
+[08-Feb-2024 20:55:22 UTC] Filtre de date sélectionné : recent
+[08-Feb-2024 20:55:25 UTC] Entrée dans load_photos_by_category_and_format
+[08-Feb-2024 20:55:25 UTC] Catégorie sélectionnée : concert
+[08-Feb-2024 20:55:25 UTC] Format sélectionné : paysage
+[08-Feb-2024 20:55:25 UTC] Filtre de date sélectionné : recent
+[09-Feb-2024 08:05:52 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 08:05:52 UTC] Catégorie sélectionnée : concert
+[09-Feb-2024 08:05:52 UTC] Format sélectionné : 
+[09-Feb-2024 08:05:52 UTC] Filtre de date sélectionné : recent
+[09-Feb-2024 08:05:55 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 08:05:55 UTC] Catégorie sélectionnée : concert
+[09-Feb-2024 08:05:55 UTC] Format sélectionné : paysage
+[09-Feb-2024 08:05:55 UTC] Filtre de date sélectionné : recent
+[09-Feb-2024 08:05:59 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 08:05:59 UTC] Catégorie sélectionnée : concert
+[09-Feb-2024 08:05:59 UTC] Format sélectionné : paysage
+[09-Feb-2024 08:05:59 UTC] Filtre de date sélectionné : old
+[09-Feb-2024 08:11:41 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 08:11:41 UTC] Catégorie sélectionnée : concert
+[09-Feb-2024 08:11:41 UTC] Format sélectionné : 
+[09-Feb-2024 08:11:41 UTC] Filtre de date sélectionné : recent
+[09-Feb-2024 08:11:42 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 08:11:42 UTC] Catégorie sélectionnée : concert
+[09-Feb-2024 08:11:42 UTC] Format sélectionné : paysage
+[09-Feb-2024 08:11:42 UTC] Filtre de date sélectionné : recent
+[09-Feb-2024 08:11:44 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 08:11:44 UTC] Catégorie sélectionnée : concert
+[09-Feb-2024 08:11:44 UTC] Format sélectionné : paysage
+[09-Feb-2024 08:11:44 UTC] Filtre de date sélectionné : old
+[09-Feb-2024 08:11:56 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 08:11:56 UTC] Catégorie sélectionnée : concert
+[09-Feb-2024 08:11:56 UTC] Format sélectionné : 
+[09-Feb-2024 08:11:56 UTC] Filtre de date sélectionné : recent
+[09-Feb-2024 08:12:04 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 08:12:04 UTC] Catégorie sélectionnée : concert
+[09-Feb-2024 08:12:04 UTC] Format sélectionné : 
+[09-Feb-2024 08:12:04 UTC] Filtre de date sélectionné : recent
+[09-Feb-2024 08:12:05 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 08:12:05 UTC] Catégorie sélectionnée : concert
+[09-Feb-2024 08:12:05 UTC] Format sélectionné : paysage
+[09-Feb-2024 08:12:05 UTC] Filtre de date sélectionné : recent
+[09-Feb-2024 08:12:08 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 08:12:08 UTC] Catégorie sélectionnée : concert
+[09-Feb-2024 08:12:08 UTC] Format sélectionné : paysage
+[09-Feb-2024 08:12:08 UTC] Filtre de date sélectionné : old
+[09-Feb-2024 08:14:09 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 08:14:09 UTC] Catégorie sélectionnée : concert
+[09-Feb-2024 08:14:09 UTC] Format sélectionné : 
+[09-Feb-2024 08:14:09 UTC] Filtre de date sélectionné : recent
+[09-Feb-2024 08:14:10 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 08:14:10 UTC] Catégorie sélectionnée : concert
+[09-Feb-2024 08:14:10 UTC] Format sélectionné : paysage
+[09-Feb-2024 08:14:10 UTC] Filtre de date sélectionné : recent
+[09-Feb-2024 08:15:16 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 08:15:16 UTC] Catégorie sélectionnée : 
+[09-Feb-2024 08:15:16 UTC] Format sélectionné : paysage
+[09-Feb-2024 08:15:16 UTC] Filtre de date sélectionné : recent
+[09-Feb-2024 08:15:47 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 08:15:47 UTC] Catégorie sélectionnée : concert
+[09-Feb-2024 08:15:47 UTC] Format sélectionné : 
+[09-Feb-2024 08:15:47 UTC] Filtre de date sélectionné : recent
+[09-Feb-2024 08:16:22 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 08:16:22 UTC] Catégorie sélectionnée : concert
+[09-Feb-2024 08:16:22 UTC] Format sélectionné : 
+[09-Feb-2024 08:16:22 UTC] Filtre de date sélectionné : recent
+[09-Feb-2024 08:16:25 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 08:16:25 UTC] Catégorie sélectionnée : concert
+[09-Feb-2024 08:16:25 UTC] Format sélectionné : 
+[09-Feb-2024 08:16:25 UTC] Filtre de date sélectionné : old
+[09-Feb-2024 08:16:32 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 08:16:32 UTC] Catégorie sélectionnée : concert
+[09-Feb-2024 08:16:32 UTC] Format sélectionné : 
+[09-Feb-2024 08:16:32 UTC] Filtre de date sélectionné : recent
+[09-Feb-2024 08:16:43 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 08:16:43 UTC] Catégorie sélectionnée : concert
+[09-Feb-2024 08:16:43 UTC] Format sélectionné : 
+[09-Feb-2024 08:16:43 UTC] Filtre de date sélectionné : recent
+[09-Feb-2024 08:23:49 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 08:23:49 UTC] Catégorie sélectionnée : concert
+[09-Feb-2024 08:23:49 UTC] Format sélectionné : 
+[09-Feb-2024 08:23:49 UTC] Filtre de date sélectionné : recent
+[09-Feb-2024 08:23:58 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 08:23:58 UTC] Catégorie sélectionnée : 
+[09-Feb-2024 08:23:58 UTC] Format sélectionné : paysage
+[09-Feb-2024 08:23:58 UTC] Filtre de date sélectionné : recent
+[09-Feb-2024 08:24:08 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 08:24:08 UTC] Catégorie sélectionnée : 
+[09-Feb-2024 08:24:08 UTC] Format sélectionné : 
+[09-Feb-2024 08:24:08 UTC] Filtre de date sélectionné : old
+[09-Feb-2024 08:26:31 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 08:26:31 UTC] Catégorie sélectionnée : 
+[09-Feb-2024 08:26:31 UTC] Format sélectionné : 
+[09-Feb-2024 08:26:31 UTC] Filtre de date sélectionné : old
+[09-Feb-2024 08:26:39 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 08:26:39 UTC] Catégorie sélectionnée : concert
+[09-Feb-2024 08:26:39 UTC] Format sélectionné : 
+[09-Feb-2024 08:26:39 UTC] Filtre de date sélectionné : recent
+[09-Feb-2024 08:35:17 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 08:35:17 UTC] Catégorie sélectionnée : 
+[09-Feb-2024 08:35:17 UTC] Format sélectionné : 
+[09-Feb-2024 08:35:17 UTC] Filtre de date sélectionné : old
+[09-Feb-2024 08:35:20 UTC] Entrée dans handle_load_photos
+[09-Feb-2024 08:35:20 UTC] Paramètres de requête : Array
+(
+    [action] => load_more_photos
+    [nonce] => 76e686f665
+    [page] => 2
+    [category] => 
+    [dateFilter] => old
+)
+
+[09-Feb-2024 08:44:33 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 08:44:33 UTC] Catégorie sélectionnée : 
+[09-Feb-2024 08:44:33 UTC] Format sélectionné : 
+[09-Feb-2024 08:44:33 UTC] Filtre de date sélectionné : old
+[09-Feb-2024 08:44:36 UTC] Entrée dans handle_load_photos
+[09-Feb-2024 08:44:36 UTC] Paramètres de requête : Array
+(
+    [action] => load_more_photos
+    [nonce] => 76e686f665
+    [page] => 2
+    [category] => 
+    [dateFilter] => old
+)
+
+[09-Feb-2024 08:50:19 UTC] Entrée dans handle_load_photos
+[09-Feb-2024 08:50:19 UTC] Paramètres de requête : Array
+(
+    [action] => load_more_photos
+    [nonce] => 76e686f665
+    [page] => 2
+    [category] => 
+    [dateFilter] => recent
+)
+
+[09-Feb-2024 08:50:24 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 08:50:24 UTC] Catégorie sélectionnée : 
+[09-Feb-2024 08:50:24 UTC] Format sélectionné : 
+[09-Feb-2024 08:50:24 UTC] Filtre de date sélectionné : old
+[09-Feb-2024 08:50:26 UTC] Entrée dans handle_load_photos
+[09-Feb-2024 08:50:26 UTC] Paramètres de requête : Array
+(
+    [action] => load_more_photos
+    [nonce] => 76e686f665
+    [page] => 2
+    [category] => 
+    [dateFilter] => old
+)
+
+[09-Feb-2024 09:03:33 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 09:03:33 UTC] Catégorie sélectionnée : 
+[09-Feb-2024 09:03:33 UTC] Format sélectionné : 
+[09-Feb-2024 09:03:33 UTC] Filtre de date sélectionné : old
+[09-Feb-2024 09:03:35 UTC] Entrée dans handle_load_photos
+[09-Feb-2024 09:03:35 UTC] Paramètres de requête : Array
+(
+    [action] => load_more_photos
+    [nonce] => 76e686f665
+    [page] => 2
+    [category] => 
+    [dateFilter] => old
+)
+
+[09-Feb-2024 09:03:35 UTC] Paramètres de requête : Array
+(
+    [post_type] => photo
+    [posts_per_page] => 8
+    [paged] => 2
+    [category] => 
+    [format] => 
+    [dateFilter] => old
+)
+
+[09-Feb-2024 09:07:08 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 09:07:08 UTC] Catégorie sélectionnée : 
+[09-Feb-2024 09:07:08 UTC] Format sélectionné : 
+[09-Feb-2024 09:07:08 UTC] Filtre de date sélectionné : old
+[09-Feb-2024 09:07:10 UTC] Entrée dans handle_load_photos
+[09-Feb-2024 09:07:10 UTC] Paramètres de requête : Array
+(
+    [action] => load_more_photos
+    [nonce] => 76e686f665
+    [page] => 2
+    [category] => 
+    [dateFilter] => old
+)
+
+[09-Feb-2024 09:09:15 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 09:09:15 UTC] Catégorie sélectionnée : concert
+[09-Feb-2024 09:09:15 UTC] Format sélectionné : 
+[09-Feb-2024 09:09:15 UTC] Filtre de date sélectionné : recent
+[09-Feb-2024 09:09:17 UTC] Entrée dans handle_load_photos
+[09-Feb-2024 09:09:17 UTC] Paramètres de requête : Array
+(
+    [action] => load_more_photos
+    [nonce] => 76e686f665
+    [page] => 2
+    [category] => concert
+    [dateFilter] => recent
+)
+
+[09-Feb-2024 09:10:24 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 09:10:24 UTC] Catégorie sélectionnée : 
+[09-Feb-2024 09:10:24 UTC] Format sélectionné : paysage
+[09-Feb-2024 09:10:24 UTC] Filtre de date sélectionné : recent
+[09-Feb-2024 09:10:27 UTC] Entrée dans handle_load_photos
+[09-Feb-2024 09:10:27 UTC] Paramètres de requête : Array
+(
+    [action] => load_more_photos
+    [nonce] => 76e686f665
+    [page] => 2
+    [category] => 
+    [dateFilter] => recent
+    [format] => paysage
+)
+
+[09-Feb-2024 09:21:28 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 09:21:28 UTC] Catégorie sélectionnée : 
+[09-Feb-2024 09:21:28 UTC] Format sélectionné : 
+[09-Feb-2024 09:21:28 UTC] Filtre de date sélectionné : old
+[09-Feb-2024 09:21:30 UTC] Entrée dans handle_load_photos
+[09-Feb-2024 09:21:30 UTC] Paramètres de requête : Array
+(
+    [action] => load_more_photos
+    [nonce] => 76e686f665
+    [page] => 2
+    [category] => 
+    [dateFilter] => old
+)
+
+[09-Feb-2024 09:35:58 UTC] Entrée dans handle_load_photos
+[09-Feb-2024 09:35:58 UTC] Paramètres de requête : Array
+(
+    [action] => load_more_photos
+    [nonce] => 76e686f665
+    [page] => 2
+    [category] => 
+    [dateFilter] => recent
+)
+
+[09-Feb-2024 09:36:03 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 09:36:03 UTC] Catégorie sélectionnée : concert
+[09-Feb-2024 09:36:03 UTC] Format sélectionné : 
+[09-Feb-2024 09:36:03 UTC] Filtre de date sélectionné : recent
+[09-Feb-2024 09:36:05 UTC] Entrée dans handle_load_photos
+[09-Feb-2024 09:36:05 UTC] Paramètres de requête : Array
+(
+    [action] => load_more_photos
+    [nonce] => 76e686f665
+    [page] => 2
+    [category] => concert
+    [dateFilter] => recent
+)
+
+[09-Feb-2024 09:36:13 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 09:36:13 UTC] Catégorie sélectionnée : 
+[09-Feb-2024 09:36:13 UTC] Format sélectionné : paysage
+[09-Feb-2024 09:36:13 UTC] Filtre de date sélectionné : recent
+[09-Feb-2024 09:36:15 UTC] Entrée dans handle_load_photos
+[09-Feb-2024 09:36:15 UTC] Paramètres de requête : Array
+(
+    [action] => load_more_photos
+    [nonce] => 76e686f665
+    [page] => 2
+    [category] => 
+    [dateFilter] => recent
+    [format] => paysage
+)
+
+[09-Feb-2024 09:36:19 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 09:36:19 UTC] Catégorie sélectionnée : 
+[09-Feb-2024 09:36:19 UTC] Format sélectionné : paysage
+[09-Feb-2024 09:36:19 UTC] Filtre de date sélectionné : old
+[09-Feb-2024 09:36:21 UTC] Entrée dans handle_load_photos
+[09-Feb-2024 09:36:21 UTC] Paramètres de requête : Array
+(
+    [action] => load_more_photos
+    [nonce] => 76e686f665
+    [page] => 2
+    [category] => 
+    [dateFilter] => old
+    [format] => paysage
+)
+
+[09-Feb-2024 09:36:26 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 09:36:26 UTC] Catégorie sélectionnée : 
+[09-Feb-2024 09:36:26 UTC] Format sélectionné : 
+[09-Feb-2024 09:36:26 UTC] Filtre de date sélectionné : old
+[09-Feb-2024 09:36:28 UTC] Entrée dans handle_load_photos
+[09-Feb-2024 09:36:28 UTC] Paramètres de requête : Array
+(
+    [action] => load_more_photos
+    [nonce] => 76e686f665
+    [page] => 2
+    [category] => 
+    [dateFilter] => old
+)
+
+[09-Feb-2024 09:36:37 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 09:36:37 UTC] Catégorie sélectionnée : concert
+[09-Feb-2024 09:36:37 UTC] Format sélectionné : 
+[09-Feb-2024 09:36:37 UTC] Filtre de date sélectionné : recent
+[09-Feb-2024 09:36:39 UTC] Entrée dans handle_load_photos
+[09-Feb-2024 09:36:39 UTC] Paramètres de requête : Array
+(
+    [action] => load_more_photos
+    [nonce] => 76e686f665
+    [page] => 2
+    [category] => concert
+    [dateFilter] => recent
+)
+
+[09-Feb-2024 09:40:22 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 09:40:22 UTC] Catégorie sélectionnée : concert
+[09-Feb-2024 09:40:22 UTC] Format sélectionné : 
+[09-Feb-2024 09:40:22 UTC] Filtre de date sélectionné : recent
+[09-Feb-2024 09:40:24 UTC] Entrée dans handle_load_photos
+[09-Feb-2024 09:40:24 UTC] Paramètres de requête : Array
+(
+    [action] => load_more_photos
+    [nonce] => 76e686f665
+    [page] => 2
+    [category] => concert
+    [dateFilter] => recent
+)
+
+[09-Feb-2024 09:40:29 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 09:40:29 UTC] Catégorie sélectionnée : 
+[09-Feb-2024 09:40:29 UTC] Format sélectionné : 
+[09-Feb-2024 09:40:29 UTC] Filtre de date sélectionné : recent
+[09-Feb-2024 09:40:35 UTC] Entrée dans handle_load_photos
+[09-Feb-2024 09:40:35 UTC] Paramètres de requête : Array
+(
+    [action] => load_more_photos
+    [nonce] => 76e686f665
+    [page] => 2
+    [category] => 
+    [dateFilter] => recent
+    [format] => paysage
+)
+
+[09-Feb-2024 09:54:39 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 09:54:39 UTC] Catégorie sélectionnée : concert
+[09-Feb-2024 09:54:39 UTC] Format sélectionné : 
+[09-Feb-2024 09:54:39 UTC] Filtre de date sélectionné : recent
+[09-Feb-2024 09:55:03 UTC] Entrée dans handle_load_photos
+[09-Feb-2024 09:55:03 UTC] Paramètres de requête : Array
+(
+    [action] => load_more_photos
+    [nonce] => 76e686f665
+    [page] => 2
+    [category] => concert
+    [dateFilter] => recent
+)
+
+[09-Feb-2024 10:04:26 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 10:04:26 UTC] Catégorie sélectionnée : concert
+[09-Feb-2024 10:04:26 UTC] Format sélectionné : 
+[09-Feb-2024 10:04:26 UTC] Filtre de date sélectionné : recent
+[09-Feb-2024 10:04:28 UTC] Entrée dans handle_load_photos
+[09-Feb-2024 10:04:28 UTC] Paramètres de requête : Array
+(
+    [action] => load_more_photos
+    [nonce] => 76e686f665
+    [page] => 2
+    [category] => concert
+    [dateFilter] => recent
+)
+
+[09-Feb-2024 10:10:57 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 10:10:57 UTC] Catégorie sélectionnée : concert
+[09-Feb-2024 10:10:57 UTC] Format sélectionné : 
+[09-Feb-2024 10:10:57 UTC] Filtre de date sélectionné : recent
+[09-Feb-2024 10:10:59 UTC] Entrée dans handle_load_photos
+[09-Feb-2024 10:10:59 UTC] Paramètres de requête : Array
+(
+    [action] => load_more_photos
+    [nonce] => 76e686f665
+    [page] => 2
+    [category] => concert
+    [dateFilter] => recent
+)
+
+[09-Feb-2024 10:14:46 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 10:14:46 UTC] Catégorie sélectionnée : concert
+[09-Feb-2024 10:14:46 UTC] Format sélectionné : 
+[09-Feb-2024 10:14:46 UTC] Filtre de date sélectionné : recent
+[09-Feb-2024 10:14:47 UTC] Entrée dans handle_load_photos
+[09-Feb-2024 10:14:47 UTC] Paramètres de requête : Array
+(
+    [action] => load_more_photos
+    [nonce] => 76e686f665
+    [page] => 2
+    [category] => concert
+    [dateFilter] => recent
+)
+
+[09-Feb-2024 10:21:41 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 10:21:41 UTC] Catégorie sélectionnée : concert
+[09-Feb-2024 10:21:41 UTC] Format sélectionné : 
+[09-Feb-2024 10:21:41 UTC] Filtre de date sélectionné : recent
+[09-Feb-2024 10:21:42 UTC] Entrée dans handle_load_photos
+[09-Feb-2024 10:21:42 UTC] Paramètres de requête : Array
+(
+    [action] => load_more_photos
+    [nonce] => 76e686f665
+    [page] => 2
+    [category] => concert
+    [dateFilter] => recent
+)
+
+[09-Feb-2024 10:21:47 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 10:21:47 UTC] Catégorie sélectionnée : 
+[09-Feb-2024 10:21:47 UTC] Format sélectionné : paysage
+[09-Feb-2024 10:21:47 UTC] Filtre de date sélectionné : recent
+[09-Feb-2024 10:21:54 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 10:21:54 UTC] Catégorie sélectionnée : concert
+[09-Feb-2024 10:21:54 UTC] Format sélectionné : paysage
+[09-Feb-2024 10:21:54 UTC] Filtre de date sélectionné : recent
+[09-Feb-2024 16:27:06 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 16:27:06 UTC] Catégorie sélectionnée : concert
+[09-Feb-2024 16:27:06 UTC] Format sélectionné : 
+[09-Feb-2024 16:27:06 UTC] Filtre de date sélectionné : recent
+[09-Feb-2024 16:27:09 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 16:27:09 UTC] Catégorie sélectionnée : concert
+[09-Feb-2024 16:27:09 UTC] Format sélectionné : paysage
+[09-Feb-2024 16:27:09 UTC] Filtre de date sélectionné : recent
+[09-Feb-2024 16:27:12 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 16:27:12 UTC] Catégorie sélectionnée : concert
+[09-Feb-2024 16:27:12 UTC] Format sélectionné : paysage
+[09-Feb-2024 16:27:12 UTC] Filtre de date sélectionné : old
+[09-Feb-2024 16:27:14 UTC] Entrée dans handle_load_photos
+[09-Feb-2024 16:27:14 UTC] Paramètres de requête : Array
+(
+    [action] => load_more_photos
+    [nonce] => 009e6243dd
+    [page] => 2
+    [category] => concert
+    [dateFilter] => old
+    [format] => paysage
+)
+
+[09-Feb-2024 16:29:01 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 16:29:01 UTC] Catégorie sélectionnée : concert
+[09-Feb-2024 16:29:01 UTC] Format sélectionné : 
+[09-Feb-2024 16:29:01 UTC] Filtre de date sélectionné : recent
+[09-Feb-2024 16:29:03 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 16:29:03 UTC] Catégorie sélectionnée : concert
+[09-Feb-2024 16:29:03 UTC] Format sélectionné : paysage
+[09-Feb-2024 16:29:03 UTC] Filtre de date sélectionné : recent
+[09-Feb-2024 16:29:05 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 16:29:05 UTC] Catégorie sélectionnée : concert
+[09-Feb-2024 16:29:05 UTC] Format sélectionné : paysage
+[09-Feb-2024 16:29:05 UTC] Filtre de date sélectionné : old
+[09-Feb-2024 16:29:07 UTC] Entrée dans handle_load_photos
+[09-Feb-2024 16:29:07 UTC] Paramètres de requête : Array
+(
+    [action] => load_more_photos
+    [nonce] => 009e6243dd
+    [page] => 2
+    [category] => concert
+    [dateFilter] => old
+    [format] => paysage
+)
+
+[09-Feb-2024 16:38:17 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 16:38:17 UTC] Catégorie sélectionnée : concert
+[09-Feb-2024 16:38:17 UTC] Format sélectionné : 
+[09-Feb-2024 16:38:17 UTC] Filtre de date sélectionné : recent
+[09-Feb-2024 16:38:19 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 16:38:19 UTC] Catégorie sélectionnée : concert
+[09-Feb-2024 16:38:19 UTC] Format sélectionné : paysage
+[09-Feb-2024 16:38:19 UTC] Filtre de date sélectionné : recent
+[09-Feb-2024 16:38:22 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 16:38:22 UTC] Catégorie sélectionnée : concert
+[09-Feb-2024 16:38:22 UTC] Format sélectionné : paysage
+[09-Feb-2024 16:38:22 UTC] Filtre de date sélectionné : old
+[09-Feb-2024 16:38:23 UTC] Entrée dans handle_load_photos
+[09-Feb-2024 16:38:23 UTC] Paramètres de requête : Array
+(
+    [action] => load_more_photos
+    [nonce] => 009e6243dd
+    [page] => 2
+    [category] => concert
+    [dateFilter] => old
+    [format] => paysage
+)
+
+[09-Feb-2024 16:38:31 UTC] Entrée dans handle_load_photos
+[09-Feb-2024 16:38:31 UTC] Paramètres de requête : Array
+(
+    [action] => load_more_photos
+    [nonce] => 009e6243dd
+    [page] => 2
+    [category] => 
+    [dateFilter] => recent
+)
+
+[09-Feb-2024 16:38:39 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 16:38:39 UTC] Catégorie sélectionnée : 
+[09-Feb-2024 16:38:39 UTC] Format sélectionné : paysage
+[09-Feb-2024 16:38:39 UTC] Filtre de date sélectionné : recent
+[09-Feb-2024 16:38:44 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 16:38:44 UTC] Catégorie sélectionnée : 
+[09-Feb-2024 16:38:44 UTC] Format sélectionné : paysage
+[09-Feb-2024 16:38:44 UTC] Filtre de date sélectionné : old
+[09-Feb-2024 16:38:49 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 16:38:49 UTC] Catégorie sélectionnée : concert
+[09-Feb-2024 16:38:49 UTC] Format sélectionné : 
+[09-Feb-2024 16:38:49 UTC] Filtre de date sélectionné : recent
+[09-Feb-2024 16:38:51 UTC] Entrée dans load_photos_by_category_and_format
+[09-Feb-2024 16:38:51 UTC] Catégorie sélectionnée : concert
+[09-Feb-2024 16:38:51 UTC] Format sélectionné : 
+[09-Feb-2024 16:38:51 UTC] Filtre de date sélectionné : old
+[09-Feb-2024 16:38:53 UTC] Entrée dans handle_load_photos
+[09-Feb-2024 16:38:53 UTC] Paramètres de requête : Array
+(
+    [action] => load_more_photos
+    [nonce] => 009e6243dd
+    [page] => 2
+    [category] => concert
+    [dateFilter] => old
+)
+
+[10-Feb-2024 13:54:28 UTC] PHP Warning:  Undefined variable $reference in C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-content\themes\Nathalie-Mota_theme\single-photo.php on line 53
+[11-Feb-2024 12:40:15 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée in C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-includes\class-wpdb.php on line 1987
+[14-Feb-2024 18:58:15 UTC] PHP Deprecated:  La fonction the_block_template_skip_link est obsolète depuis la version 6.4.0 ! Utilisez wp_enqueue_block_template_skip_link() à la place. in C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-includes\functions.php on line 6031
+[14-Feb-2024 18:59:02 UTC] PHP Deprecated:  La fonction the_block_template_skip_link est obsolète depuis la version 6.4.0 ! Utilisez wp_enqueue_block_template_skip_link() à la place. in C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-includes\functions.php on line 6031
+[15-Feb-2024 11:06:16 UTC] PHP Warning:  Une erreur imprévue est survenue. Il pourrait y avoir un problème avec WordPress.org ou la configuration de ce serveur. Si vous continuez à rencontrer ce problème, veuillez vous rendre sur les <a href="https://wpfr.net/support">forums de support</a>. (WordPress n’a pas pu établir de connexion sécurisée vers WordPress.org. Veuillez contacter l’administrateur ou l’administratrice de votre serveur.) in C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-includes\update.php on line 211
+[15-Feb-2024 11:06:16 UTC] PHP Warning:  Une erreur imprévue est survenue. Il pourrait y avoir un problème avec WordPress.org ou la configuration de ce serveur. Si vous continuez à rencontrer ce problème, veuillez vous rendre sur les <a href="https://wpfr.net/support">forums de support</a>. (WordPress n’a pas pu établir de connexion sécurisée vers WordPress.org. Veuillez contacter l’administrateur ou l’administratrice de votre serveur.) in C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-includes\update.php on line 211
+[15-Feb-2024 11:06:16 UTC] PHP Warning:  Une erreur imprévue est survenue. Il pourrait y avoir un problème avec WordPress.org ou la configuration de ce serveur. Si vous continuez à rencontrer ce problème, veuillez vous rendre sur les <a href="https://wpfr.net/support">forums de support</a>. (WordPress n’a pas pu établir de connexion sécurisée vers WordPress.org. Veuillez contacter l’administrateur ou l’administratrice de votre serveur.) in C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-includes\update.php on line 211
+[17-Feb-2024 16:45:13 UTC] PHP Fatal error:  Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-includes\formatting.php:4494
+Stack trace:
+#0 C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-includes\formatting.php(4494): ltrim(Array)
+#1 C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-content\themes\Nathalie-Mota_theme\index.php(23): esc_url(Array)
+#2 C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Batis\\...')
+#3 C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Batis\\...')
+#4 C:\Users\Batis\Local Sites\nathalie-mota\app\public\index.php(17): require('C:\\Users\\Batis\\...')
+#5 {main}
+  thrown in C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-includes\formatting.php on line 4494
+[17-Feb-2024 16:45:39 UTC] PHP Fatal error:  Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-includes\formatting.php:4494
+Stack trace:
+#0 C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-includes\formatting.php(4494): ltrim(Array)
+#1 C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-content\themes\Nathalie-Mota_theme\index.php(23): esc_url(Array)
+#2 C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Batis\\...')
+#3 C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Batis\\...')
+#4 C:\Users\Batis\Local Sites\nathalie-mota\app\public\index.php(17): require('C:\\Users\\Batis\\...')
+#5 {main}
+  thrown in C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-includes\formatting.php on line 4494
+[17-Feb-2024 16:49:11 UTC] PHP Fatal error:  Uncaught TypeError: ltrim(): Argument #1 ($string) must be of type string, array given in C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-includes\formatting.php:4494
+Stack trace:
+#0 C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-includes\formatting.php(4494): ltrim(Array)
+#1 C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-content\themes\Nathalie-Mota_theme\index.php(105): esc_url(Array)
+#2 C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Batis\\...')
+#3 C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Batis\\...')
+#4 C:\Users\Batis\Local Sites\nathalie-mota\app\public\index.php(17): require('C:\\Users\\Batis\\...')
+#5 {main}
+  thrown in C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-includes\formatting.php on line 4494
+[17-Feb-2024 17:13:38 UTC] PHP Warning:  Undefined variable $image_url in C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-content\themes\Nathalie-Mota_theme\single-photo.php on line 76
+[17-Feb-2024 21:45:18 UTC] PHP Warning:  Une erreur imprévue est survenue. Il pourrait y avoir un problème avec WordPress.org ou la configuration de ce serveur. Si vous continuez à rencontrer ce problème, veuillez vous rendre sur les <a href="https://wpfr.net/support">forums de support</a>. (WordPress n’a pas pu établir de connexion sécurisée vers WordPress.org. Veuillez contacter l’administrateur ou l’administratrice de votre serveur.) in C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-includes\update.php on line 211
+[17-Feb-2024 21:45:18 UTC] PHP Warning:  Une erreur imprévue est survenue. Il pourrait y avoir un problème avec WordPress.org ou la configuration de ce serveur. Si vous continuez à rencontrer ce problème, veuillez vous rendre sur les <a href="https://wpfr.net/support">forums de support</a>. (WordPress n’a pas pu établir de connexion sécurisée vers WordPress.org. Veuillez contacter l’administrateur ou l’administratrice de votre serveur.) in C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-includes\update.php on line 211
+[17-Feb-2024 21:45:18 UTC] PHP Warning:  Une erreur imprévue est survenue. Il pourrait y avoir un problème avec WordPress.org ou la configuration de ce serveur. Si vous continuez à rencontrer ce problème, veuillez vous rendre sur les <a href="https://wpfr.net/support">forums de support</a>. (WordPress n’a pas pu établir de connexion sécurisée vers WordPress.org. Veuillez contacter l’administrateur ou l’administratrice de votre serveur.) in C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-includes\update.php on line 211
+[17-Feb-2024 22:41:17 UTC] PHP Warning:  Une erreur imprévue est survenue. Il pourrait y avoir un problème avec WordPress.org ou la configuration de ce serveur. Si vous continuez à rencontrer ce problème, veuillez vous rendre sur les <a href="https://wpfr.net/support">forums de support</a>. (WordPress n’a pas pu établir de connexion sécurisée vers WordPress.org. Veuillez contacter l’administrateur ou l’administratrice de votre serveur.) in C:\Users\Batis\Local Sites\nathalie-mota\app\public\wp-admin\includes\update.php on line 154
